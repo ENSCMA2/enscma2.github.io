@@ -17,7 +17,7 @@ nav_order: 5
 ## [LingHacks](http://linghacks.tech)
 - **Using the NLTK**, workshop at LingHacks IV, June 2022
 - **Introduction to NLP: Building a Text Classifier**, guest workshop at Girls Code Data, September 2020
-- - **Intro to Python**, **Machine Learning and the Natural Language Toolkit**, and **Intro to Deep Learning**, workshops at LingHacks II, March 2019
+- **Intro to Python**, **Machine Learning and the Natural Language Toolkit**, and **Intro to Deep Learning**, workshops at LingHacks II, March 2019
 - **Workshops on Words**, workshop series at LingHacks, October & November 2018, co-organized with Leo Lin, Michelle Parsons, Brandon Son, and Sachin Subramanian
 - **Intro to Computational Linguistics**, guest workshop at GirlsCodeMonth, September 2018
 - **Intro to Python** & **Intro to Deep Learning**, workshops at LingHacks I, April 2018
