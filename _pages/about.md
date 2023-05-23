@@ -7,8 +7,8 @@ subtitle: Harvard CS + History
 profile:
   align: right
   image: headshot_2022.jpg
-  image_circular: false  
   address: <p> Image Description: Karina (white skin, brown hair, black top) smiling at the camera outside. Picture credits: Oriana Li Halevy, 2022. </p>
+  image_circular: false  
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
