@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harvard CS + History</a>.
+subtitle: Harvard CS + History
 
 profile:
   align: right
