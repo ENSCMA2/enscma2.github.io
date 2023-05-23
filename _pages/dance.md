@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+My interests in dance lie mostly in:  
+- ballet, contemporary, modern, lyrical, character/folk, and jazz  
+- directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
+- stage management, lighting design/board operations, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
+
 ## Harvard-Radcliffe Modern Dance Company
 - Choreographed & danced in ARTS FIRST DanceFest (spring 2023)
 - Choreographed, lighting-designed, danced, & unofficially sound-designed & spiked stage for *[intervals]* (spring 2023)
