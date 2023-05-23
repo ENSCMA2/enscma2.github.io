@@ -8,6 +8,7 @@ profile:
   align: right
   image: headshot_2022.jpg
   image_circular: false # crops the image to make it circular
+  address: [Image Description]: Karina (white skin, brown hair, black top) smiling at the camera outside. Picture credits: Oriana Li Halevy, 2022.
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
