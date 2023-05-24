@@ -59,9 +59,9 @@ nav_order: 6
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for *[intervals]* by HRMDC, spring 2023, with Mira Becker and Lucy Poulson (selected samples)
+- Lighting Designer for *[intervals]* by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
 - Lighting Board Operator for *Falling Together* by Laura Coe, spring 2023
-- Lighting Designer for *metamorphosis* by HRMDC, fall 2022, with Mira Becker, Lucy Poulson, and Julia Sperling (selected samples)
+- Lighting Designer for *metamorphosis* by HRMDC, fall 2022, with Mira Becker, Lucy Poulson, and Julia Sperling ([sample](https://youtu.be/Lb8MAVKG4l8))
 - Lighting Board Operator for "Un Viaje Por El Mundo" by Harvard Candela Latin Dance Troupe, spring 2022
 
 ### Directing
