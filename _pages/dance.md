@@ -8,9 +8,9 @@ nav_order: 6
 
 profile:
   address: >
-    <p> Image Description: Black and white photo of Karina (white skin, brown hair, red button-down, black leggings, white socks, blue mask) doing an attitude to the back on stage. </p>
+    <p> Image Description: Black and white photo of Karina (white skin, brown hair, red button-down, black leggings, white socks, blue mask) doing an attitude to the back on stage. Picture credits: Titus Jahng, 2022. </p>
   align: right
-  image: danceshot_2022.jpg
+  image: Attitude.jpg
   image_circular: false  
 ---
 
