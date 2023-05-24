@@ -1,10 +1,17 @@
 ---
-layout: page
+layout: about
 permalink: /dance/
 title: Dance
 description: One of my personality traits is not being able to sit still for more than 7 minutes unless absolutely needed
 nav: true
 nav_order: 6
+
+profile:
+  address: >
+    <p> Image Description: Black and white photo of Karina (white skin, brown hair, red button-down, black leggings, white socks, blue mask) doing an attitude to the back on stage. </p>
+  align: right
+  image: danceshot_2022.jpg
+  image_circular: false  
 ---
 
 ## Interests
