@@ -19,13 +19,13 @@ profile:
 - stage management, lighting design/board operations, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
 
 ## Background
-- 2019 - 2023: modern & contemporary with Harvard-Radcliffe Modern Dance Company
-- 2022: ballet with VAM Studios
+- 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
+- 2022: ballet with [VAM Studios](https://vamstudios.net/)
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
-- 2016 - 2019: ballet with Bay Area Dance School
-- 2011 - 2016: ballet, contemporary, & character with Bayer Ballet Academy
-- 2009 - 2011: ballet with Pacific Ballet Academy
-- 2007 - 2009: Chinese dance with Jun Lu Performing Arts
+- 2016 - 2019: ballet with [Bay Area Dance School](https://www.bayareadances.com/)
+- 2011 - 2016: ballet, contemporary, & character with [Bayer Ballet Academy](https://www.bayerballet.com/)
+- 2009 - 2011: ballet with [Pacific Ballet Academy](https://www.pacificballet.org/calendar)
+- 2007 - 2009: Chinese dance with [Jun Lu Performing Arts Academy](https://www.jludance.com/)
 - 2004 - 2007: ballet with Pacific Ballet Academy
 
 ## Selected Stage Experience
