@@ -2,7 +2,6 @@
 layout: about
 permalink: /dance/
 title: Dance
-description: One of my personality traits is not being able to sit still for more than 7 minutes unless absolutely needed
 nav: true
 nav_order: 6
 
@@ -55,7 +54,7 @@ profile:
 - "this is...45": modern large-group dance, performed in *archive* by HRMDC, fall 2021
 - "bird set free": modern small-group dance, performed in *an escape* by HRMDC, fall 2019
 - "The Ones Who Had Loved Her the Most": modern trio, performedn in *an escape* by HRMDC, fall 2019
-- Trio from *Walpurgisnacht*: ballet, performed in *Springtime Novelettes* by Bayer Ballet Academy, Spring 2016
+- Trio from *Walpurgisnacht*: ballet, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
 - Snow Queen: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
 - Garden Enchantress: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
 - "Bells" from *Fountain of Bakhchisarai*: lead role in ballet trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
