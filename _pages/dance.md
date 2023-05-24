@@ -20,6 +20,7 @@ nav_order: 6
 - 2011 - 2016: ballet, contemporary, & character with Bayer Ballet Academy
 - 2009 - 2011: ballet with Pacific Ballet Academy
 - 2007 - 2009: Chinese dance with Jun Lu Performing Arts
+- 2004 - 2007: ballet with Pacific Ballet Academy
 
 ## Selected Stage Experience
 ### Choreography
