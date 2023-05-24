@@ -71,7 +71,7 @@ nav_order: 6
 ### Producing, Stage-Managing, Front-of-House, etc.
 - Co-Produced ARTS FIRST DanceFest, spring 2023, with Kate Guerin and Divya Navani
 - Unofficially sound-designed *[intervals]*, spring 2023, with Julia Sperling
-- Produced *Falling Together* Laura Coe's senior thesis performance, winter 2023
+- Produced *Falling Together*, Laura Coe's senior thesis performance, winter 2023
 - Ushered & assisted with set changeovers for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
 - Ushered *The Merry Widow*, winter 2023
 - Stage-managed *translations*, spring 2022, with Mira Becker
