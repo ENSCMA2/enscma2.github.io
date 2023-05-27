@@ -30,7 +30,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
-- "Mazurka": mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
+- ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
 - "shapeshifting": ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
 - "The Interval Closes / Company Piece (93)": modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jessica Hung
 - "stirring in the stillness of the night": modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
