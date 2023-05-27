@@ -19,7 +19,7 @@ horizontal: false
 - Microsoft (summer 2021): built a command-line app to partially automate the prioritization and triaging of bugs for the team that gets your “Report” notifications when Windows crashes.
 - Bloomberg (summer 2019): built a Bloomberg Terminal app that recommends photos for photo editors to incorporate into Bloomberg news articles.
 ## Other Research(-ish) Stuff
- - Class projects in Computer Science:
+- Class projects in Computer Science:
   - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings ([CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/), fall 2021).
   - An in-progress attempt at data augmentation for algorithmic fairness (CS 226R, Topics in Theory for society, spring 2022).
 - Class projects in History:
