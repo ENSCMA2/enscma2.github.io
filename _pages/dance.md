@@ -37,14 +37,14 @@ profile:
 - ["asymmetry"](https://youtu.be/4njxtqCFg0E): ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
 - ["i'll see you again"](https://youtu.be/LoWQrUFf5ic): ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
 - ["core memories/company piece 92"](https://youtu.be/iDgpb91XRRU?t=71), modern large-group dance, performed in *metamorphosis* by HRMDC, fall 2022, co-choreographed with Mira Becker
-- "taking the power": ballet-based modern solo, performed in *translations* by HRMDC, spring 2022
-- "company piece 91 (?)": jazz-based modern large-group dance, performed in *translations* by HRMDC, spring 2022, with small-group and solo snippets choreographed by other company members
-- "simple things": ballet-based modern quartet, performed in *archive* by HRMDC, fall 2021
-- "dreaming": ballet-based modern solo, performed in *daybreak* by HRMDC, spring 2021
-- "f l y i n g": ballet-based modern duet, performed in *surreal* by HRMDC, fall 2020, co-choreographed with Veronica Tang
+- ["taking the power"](https://youtu.be/3bOxnkYUOc8): ballet-based modern solo, performed in *translations* by HRMDC, spring 2022
+- ["company piece 91 (?)"](https://youtu.be/sTNk7T0o1LM?t=114): jazz-based modern large-group dance, performed in *translations* by HRMDC, spring 2022, with small-group and solo snippets choreographed by other company members
+- ["simple things"](https://youtu.be/kNDx0T4nOg4): ballet-based modern quartet, performed in *archive* by HRMDC, fall 2021
+- ["dreaming"](https://youtu.be/A-aJ6iEbT0c): ballet-based modern solo, performed in *daybreak* by HRMDC, spring 2021
+- ["f l y i n g"](https://youtu.be/L-HuWxzmegI): ballet-based modern duet, performed in *surreal* by HRMDC, fall 2020, co-choreographed with Veronica Tang
 - "the flow of time": modern small-group work-in-progress (cancelled because of COVID), planned for performance in *ca\dence* by HRMDC, spring 2020
-- "Hungarian Dance No. 4": Hungarian character-based solo, performed in *Dancing Around the Clock* by Los Altos High School Advanced Jazz Dance, spring 2019
-- "Czardas": Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
+- ["Hungarian Dance No. 4"](https://www.youtube.com/watch?v=7lyeEeou5t8): Hungarian character-based solo, performed in *Dancing Around the Clock* by Los Altos High School Advanced Jazz Dance, spring 2019
+- ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
 - "learn to let go": modern quartet, performed in *[intervals]* by HRMDC, spring 2023
