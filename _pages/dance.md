@@ -53,7 +53,7 @@ profile:
 - ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
 - ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
 - ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
-- ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performedn in *an escape* by HRMDC, fall 2019
+- ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
 - Trio from *Walpurgisnacht*: ballet, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
 - Snow Queen: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
 - Garden Enchantress: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
