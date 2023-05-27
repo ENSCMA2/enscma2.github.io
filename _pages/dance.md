@@ -33,10 +33,10 @@ profile:
 - ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
 - ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
 - ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jessica Hung
-- "stirring in the stillness of the night": modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
-- "asymmetry": ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
-- "i'll see you again": ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
-- "core memories/company piece 92", modern large-group dance, performed in *metamorphosis* by HRMDC, fall 2022, co-choreographed with Mira Becker
+- ["stirring in the stillness of the night"](https://www.youtube.com/watch?v=YmTv8Euj2QE): modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
+- ["asymmetry"](https://youtu.be/4njxtqCFg0E): ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
+- ["i'll see you again"](https://youtu.be/LoWQrUFf5ic): ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
+- ["core memories/company piece 92"](https://youtu.be/iDgpb91XRRU?t=71), modern large-group dance, performed in *metamorphosis* by HRMDC, fall 2022, co-choreographed with Mira Becker
 - "taking the power": ballet-based modern solo, performed in *translations* by HRMDC, spring 2022
 - "company piece 91 (?)": jazz-based modern large-group dance, performed in *translations* by HRMDC, spring 2022, with small-group and solo snippets choreographed by other company members
 - "simple things": ballet-based modern quartet, performed in *archive* by HRMDC, fall 2021
