@@ -47,13 +47,13 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "learn to let go": modern quartet, performed in *[intervals]* by HRMDC, spring 2023
-- Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance roles, performed in *The Merry Widow* by Harvard College Opera, winter 2023
-- "hast thou slain the jabberwock?": ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
-- "my mother told me": modern small-group dance, performed in *archive* by HRMDC, fall 2021
-- "this is...45": modern large-group dance, performed in *archive* by HRMDC, fall 2021
-- "bird set free": modern small-group dance, performed in *an escape* by HRMDC, fall 2019
-- "The Ones Who Had Loved Her the Most": modern trio, performedn in *an escape* by HRMDC, fall 2019
+- ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
+- Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance roles, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+- ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
+- ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
+- ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
+- ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
+- ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performedn in *an escape* by HRMDC, fall 2019
 - Trio from *Walpurgisnacht*: ballet, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
 - Snow Queen: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
 - Garden Enchantress: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
@@ -65,14 +65,14 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for *[intervals]* by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
-- Lighting Board Operator for *Falling Together* by Laura Coe, spring 2023
-- Lighting Designer for *metamorphosis* by HRMDC, fall 2022, with Mira Becker, Lucy Poulson, and Julia Sperling ([sample](https://youtu.be/Lb8MAVKG4l8))
-- Lighting Board Operator for "Un Viaje Por El Mundo" by Harvard Candela Latin Dance Troupe, spring 2022
+- Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
+- Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
+- Lighting Designer for [*metamorphosis*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxOX-O7w0K04NZEzsVPI1a6) by HRMDC, fall 2022, with Mira Becker, Lucy Poulson, and Julia Sperling ([sample](https://youtu.be/Lb8MAVKG4l8))
+- Lighting Board Operator for ["Un Viaje Por El Mundo"](https://www.canva.com/design/DAE_YXMXEKA/WzE3secx6Sh-E47Q8JQe4w/view?utm_content=DAE_YXMXEKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) by [Harvard Candela Latin Dance Troupe](https://www.instagram.com/harvardcandela/), spring 2022
 
 ### Directing
-- Co-Director for *metamorphosis*, fall 2022, with Mira Becker
-- Co-Director for *translations*, spring 2022, with Mira Becker
+- Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022, with Mira Becker
+- Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, etc.
 - Co-Produced ARTS FIRST DanceFest, spring 2023, with Kate Guerin and Divya Navani
