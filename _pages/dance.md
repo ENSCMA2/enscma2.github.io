@@ -75,11 +75,11 @@ profile:
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, etc.
-- Co-Produced ARTS FIRST DanceFest, spring 2023, with Kate Guerin and Divya Navani
+- Co-Produced [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023, with Kate Guerin and Divya Navani
 - Unofficially sound-designed *[intervals]*, spring 2023, with Julia Sperling
 - Produced *Falling Together*, Laura Coe's senior thesis performance, winter 2023
-- Ushered & assisted with set changeovers for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
+- Ushered and assisted with set changeovers for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
 - Ushered *The Merry Widow*, winter 2023
 - Stage-managed *translations*, spring 2022, with Mira Becker
-- Treasurer-ed *archive*, fall 2021
-- Treasurer-ed *daybreak*, spring 2021
+- Treasurer-ed [*archive*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxp2wslBFtI6QbDuENG7Geg), fall 2021
+- Treasurer-ed [*daybreak*](https://www.youtube.com/playlist?list=PLIQE9U4oMexzDXIQU1069DiFh_MY_62uk), spring 2021
