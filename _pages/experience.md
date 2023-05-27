@@ -20,11 +20,11 @@ horizontal: false
 - Bloomberg (summer 2019): built a Bloomberg Terminal app that recommends photos for photo editors to incorporate into Bloomberg news articles.
 ## Other Research(-ish) Stuff
  - Class projects in Computer Science:
-  - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings ([CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/)).
-  - An in-progress attempt at data augmentation for algorithmic fairness (CS 226R, Topics in Theory for society).
+  - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings ([CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/), fall 2021).
+  - An in-progress attempt at data augmentation for algorithmic fairness (CS 226R, Topics in Theory for society, spring 2022).
 - Class projects in History:
-  - "Autism and Emotion in the Public Eye, 1943 - 2019": a historical investigation of public perceptions of emotions and emotionality associated with autism from 1943 to 2019 (Hist 12P, History of Emotions).
-  - "Colonial Communication: The Telegraph and the Cheyenne People": an exploration of how the construction of the telegraph around present-day Colorado impacted the Cheyenne people from 1860 - 1871 (Hist 60O, American Indian History in 4 Acts).
+  - "Autism and Emotion in the Public Eye, 1943 - 2019": a historical investigation of public perceptions of emotions and emotionality associated with autism from 1943 to 2019 (Hist 12P, History of Emotions, spring 2022).
+  - "Colonial Communication: The Telegraph and the Cheyenne People": an exploration of how the construction of the telegraph around present-day Colorado impacted the Cheyenne people from 1860 - 1871 (Hist 60O, American Indian History in 4 Acts, fall 2021).
 - Tech Officer for Congresswoman Anna Eshoo's Student Advisory Board (fall 2017-spring 2019): wrote policy proposals for bilingual education and regulating personal data acquisition (those were two different proposals, just to be extra clear). They're sitting somewhere in the Library of Congress. Learned what a categorical grant was and answered a question about it on the spot at the 2019 Modeling the Future Challenge (won 1st place).
 - Research Fellow @AI4ALL (spring 2018): built a multi-label toxic text classifier for English Wikipedia comments. Realized that this model did not work for literally any other social media platform. Became conscious. Talked about it at [Stanford HCAI 2019](https://medium.com/stanfords-gdpi/the-future-of-human-centered-ai-governance-innovation-and-protection-of-human-rights-5c371f195232) (not about becoming conscious, but about the rest of it). Wrote [some stuff](https://medium.com/ai4allorg/making-the-internet-a-safer-place-with-ai-f97cf46b3f16) about it.
 ## Volunteer Work
