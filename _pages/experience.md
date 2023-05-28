@@ -31,8 +31,9 @@ horizontal: false
 - **Tech Officer** for **Congresswoman Anna Eshoo's Student Advisory Board** (fall 2017-spring 2019): wrote policy proposals for bilingual education and regulating personal data acquisition, sitting somewhere in the Library of Congress. Learned what a categorical grant was and answered a question about it on the spot at the 2019 **Modeling the Future Challenge** (won 1st place).
 - **Research Fellow** @**AI4ALL** (spring 2018): built a multi-label toxic text classifier for English Wikipedia comments. 
   - Talked about it at [Stanford HCAI 2019](https://medium.com/stanfords-gdpi/the-future-of-human-centered-ai-governance-innovation-and-protection-of-human-rights-5c371f195232).
-  - Wrote [some stuff](https://medium.com/ai4allorg/making-the-internet-a-safer-place-with-ai-f97cf46b3f16) about it.
-## Volunteer Work
+  - Wrote [some stuff](https://medium.com/ai4allorg/making-the-internet-a-safer-place-with-ai-f97cf46b3f16) about it.  
+
+## Volunteer Work  
 ### [LingHacks](http://linghacks.tech)
 - Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
 - Launched and wrote curriculum for a network of computational linguistics clubs.
