@@ -29,15 +29,15 @@ horizontal: false
 - Research Fellow @AI4ALL (spring 2018): built a multi-label toxic text classifier for English Wikipedia comments. Realized that this model did not work for literally any other social media platform. Became conscious. Talked about it at [Stanford HCAI 2019](https://medium.com/stanfords-gdpi/the-future-of-human-centered-ai-governance-innovation-and-protection-of-human-rights-5c371f195232) (not about becoming conscious, but about the rest of it). Wrote [some stuff](https://medium.com/ai4allorg/making-the-internet-a-safer-place-with-ai-f97cf46b3f16) about it.
 ## Volunteer Work
 ### [LingHacks](http://linghacks.tech)
-- Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017)
-- Launched and wrote curriculum for a network of computational linguistics clubs
-- Organized and taught some NLP workshops
-- Started and keep running a blog, email newsletter, and resource page for NLP-related stuff
-- Returned in 2D form to teach workshops, judge hackathons, send people club curricula, & randomly refer people to our website in Facebook comment sections when they ask for NLP resources
+- Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
+- Launched and wrote curriculum for a network of computational linguistics clubs.
+- Organized and taught some NLP workshops.
+- Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
+- Returned in 2D form to teach workshops, judge hackathons, send people club curricula, & randomly refer people to our website in Facebook comment sections when they ask for NLP resources.
 ### [ProjectCSGIRLS](https://projectcsgirls.org)
-- (Co-)taught & developed some workshops on machine learning, artificial intelligence, & natural language processing for middle school girls
-### Phillips Brooks House Association
-- Answered calls for the Harvard Square Homeless Shelter resource hotline
+- (Co-)taught & developed some workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
+### [Phillips Brooks House Association](https://pbha.org)
+- Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline
 - Tutored a recent immigrant in English as a Second Language
 - Led a mentor certificate training for the Public Service Academy
 ### Other Stuff From College
