@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 permalink: /experience/
-description: A growing collection of your cool projects.
+description: Non-teaching work experience
 nav: true
 nav_order: 2
 display_categories: [work, fun]
@@ -31,16 +31,14 @@ horizontal: false
 ### [LingHacks](http://linghacks.tech)
 - Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
 - Launched and wrote curriculum for a network of computational linguistics clubs.
-- Organized and taught some NLP workshops.
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
-- Returned in 2D form to teach workshops, judge hackathons, send people club curricula, & randomly refer people to our website in Facebook comment sections when they ask for NLP resources.
+- Returned in 2D form to judge hackathons, advise new hackathon directors, & send people club curricula.
 ### [ProjectCSGIRLS](https://projectcsgirls.org)
-- (Co-)taught & developed some workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
+- Developed workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
 ### [Phillips Brooks House Association](https://pbha.org)
-- Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline
-- Tutored a recent immigrant in English as a Second Language
-- Led a mentor certificate training for the Public Service Academy
+- Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline.
+- Tutored a recent immigrant in English as a Second Language.
 ### Other Stuff From College
-- Gave people advice as a Computer Science Department Peer Concentration Advisor
-- Did the same thing as part of the History Leadership Council
+- Gave people advice as a Computer Science Department Peer Concentration Advisor.
+- Did the same thing as part of the History Leadership Council.
 
