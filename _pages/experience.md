@@ -44,6 +44,6 @@ horizontal: false
 - Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline.
 - Tutored a recent immigrant in English as a Second Language.
 ### Other Stuff From College
-- Gave people advice as a Computer Science Department Peer Concentration Advisor.
-- Did the same thing as part of the History Leadership Council.
+- Gave people advice as a **Computer Science Department Peer Concentration Advisor**.
+- Did the same thing as part of the **History Leadership Council**.
 
