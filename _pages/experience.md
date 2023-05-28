@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 permalink: /experience/
-description: Non-teaching work experience
+description: because I did more than teach and publish
 nav: true
 nav_order: 2
 display_categories: [work, fun]
