@@ -22,7 +22,7 @@ Hello! My name is Karina, and I am a student! My main academic interest is in **
 I am specifically interested in:  
 - constructing evaluation metrics and benchmark datasets to make large language models more understandable (e.g. what linguistic information are they really capturing, what latent biases do they have, why does model x perform better than model y on task z)  
 - doing NLP for low-resource/non-Indo-European languages  
-- *carefully* doing NLP for social science/social good (e.g. information extraction or visualization for long legal/medical/historical texts, hate speech detection; I'm partly studying history to make sure these applications aren't too out of touch with reality)  
+- *carefully* doing NLP for social science/social good (e.g. information extraction or visualization for long legal/medical/historical texts, hate speech detection)  
 - algorithmic fairness/ethics (especially for disabled people, ethnically minoritized people, & people who are marginalized in multiple ways)  
 - intersections of NLP with human-computer interaction and data visualization  
 
