@@ -16,11 +16,13 @@ horizontal: false
   - Built [*OverText<sub>history</sub>*](https://github.com/ENSCMA2/overtext-history), a tool for historians to make side-by-side sentence-level comparisons of groups of primary sources.
 - **Research Partner** @**Radcliffe Institute** (2019-2020): investigated novel methods of evaluating multilingual word embeddings under Dr. Damián Blasi.
 - **Research Intern** @**Raytheon BBN** (summer 2020): experimented with COVID-related biomedical named entity recognition for news articles as part of DARPA’s AIDA project.
-- **Research Intern** @**Affectiva** (summer 2018): tried to use speech and facial cues to detect human frustration. Failed but built a [GIPHY scraper](https://github.com/ENSCMA2/giphy-scraper) which was cool.
+- **Research Intern** @**Affectiva** (summer 2018): tried to use speech and facial cues to detect human frustration. Failed but built a [GIPHY scraper](https://github.com/ENSCMA2/giphy-scraper) which was cool.  
+
 ## Software Engineering Internships
 - **Tableau** (a Salesforce company, summer 2022): prototyped a centralized server resource management service in Java that improved resource (memory & CPU) monitoring efficiency from O(N^2) to O(N).
 - **Microsoft** (summer 2021): built a command-line app to partially automate the prioritization and triaging of bugs for the team that gets your “Report” notifications when Windows crashes.
-- **Bloomberg** (summer 2019): built a Bloomberg Terminal app that recommends photos for photo editors to incorporate into Bloomberg news articles.
+- **Bloomberg** (summer 2019): built a Bloomberg Terminal app that recommends photos for photo editors to incorporate into Bloomberg news articles.  
+
 ## Other Research(-ish) Stuff
 - Class projects in Computer Science:
   - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings (**[CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/)**, fall 2021).
