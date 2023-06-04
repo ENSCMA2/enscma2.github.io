@@ -18,10 +18,12 @@ horizontal: false
 - **Research Intern** @**Raytheon BBN** (summer 2020): experimented with COVID-related biomedical named entity recognition for news articles as part of DARPA’s AIDA project.
 - **Research Intern** @**Affectiva** (summer 2018): tried to use speech and facial cues to detect human frustration. Failed but built a [GIPHY scraper](https://github.com/ENSCMA2/giphy-scraper) which was cool.  
 
+
 ## Software Engineering Internships
 - **Tableau** (a Salesforce company, summer 2022): prototyped a centralized server resource management service in Java that improved resource (memory & CPU) monitoring efficiency from O(N^2) to O(N).
 - **Microsoft** (summer 2021): built a command-line app to partially automate the prioritization and triaging of bugs for the team that gets your “Report” notifications when Windows crashes.
 - **Bloomberg** (summer 2019): built a Bloomberg Terminal app that recommends photos for photo editors to incorporate into Bloomberg news articles.  
+
 
 ## Other Research(-ish) Stuff
 - Class projects in Computer Science:
