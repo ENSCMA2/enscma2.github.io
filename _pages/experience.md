@@ -43,11 +43,14 @@ horizontal: false
 - Launched and wrote curriculum for a network of computational linguistics clubs.
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
 - Returned in 2D form to judge hackathons, advise new hackathon directors, & send people club curricula.
+
 ### [ProjectCSGIRLS](https://projectcsgirls.org)
 - Developed workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
+
 ### [Phillips Brooks House Association](https://pbha.org)
 - Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline.
 - Tutored a recent immigrant in English as a Second Language.
+
 ### Other Stuff From College
 - Gave people advice as a **Computer Science Department Peer Concentration Advisor**.
 - Did the same thing as part of the **History Leadership Council**.
