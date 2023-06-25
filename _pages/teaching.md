@@ -15,6 +15,7 @@ nav_order: 5
 - **Intro to R Shiny**, guest workshop for Discrete Mathematics (Math S-152), July 2020, co-taught with Lucas Pao
 
 ## [LingHacks](http://linghacks.tech)
+- **Introduction to Machine Learning I** and **Introduction to App Development**, workshops at LingHacks V, June 2023, developed in collaboration with Noah Smith
 - **Using the NLTK**, workshop at LingHacks IV, June 2022
 - **Introduction to NLP: Building a Text Classifier**, guest workshop at Girls Code Data, September 2020
 - **Intro to Python**, **Machine Learning and the Natural Language Toolkit**, and **Intro to Deep Learning**, workshops at LingHacks II, March 2019
