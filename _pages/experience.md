@@ -42,7 +42,7 @@ horizontal: false
 - Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
 - Launched and wrote curriculum for a network of computational linguistics clubs.
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
-- Returned in 2D form to judge hackathons, advise new hackathon directors, & send people club curricula.
+- Returned in 2D form to judge hackathons, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula.
 
 ### [ProjectCSGIRLS](https://projectcsgirls.org)
 - Developed workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
