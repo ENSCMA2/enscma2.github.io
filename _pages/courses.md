@@ -117,4 +117,4 @@ horizontal: false
 
 ### Summer 2015
 - Chemistry Honors ([School for Independent Learners](https://sileducation.org/))
-- Bayer Ballet Academy Summer Intensive
+- Bayer Ballet Academy Summer Intensive (which I also did from summer 2011 - 2014)
