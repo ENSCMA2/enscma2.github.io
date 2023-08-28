@@ -10,6 +10,7 @@ horizontal: false
 ---
 
 ## Selected Research Positions
+- **Research Intern** @**EPFL NLP** (summer 2023): investigating bias in model editing.
 - **Research Partner** @**Radcliffe Institute** (2021 - 2022): visualized relationships across semi-structured natural language documents under Prof. Elena Glassman. 
   - Extended into joint CS-History senior thesis, co-advised with Prof. Cemal Kafadar, (first CS + History thesis from Harvard, I think!) submitted March 2023. 
   - Thesis title: "Woven into War: Digital Humanities and Sephardi Women in the Late Ottoman Empire and its Diaspora, 1908 - 1945." 
