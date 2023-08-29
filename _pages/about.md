@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Karina, and I am a PhD student at the Carnegie Mellon University Language Technologies Institute! My main academic interest is in **natural language processing/computational linguistics**.
+Hello! My name is Karina, and I am a PhD student at the Carnegie Mellon University Language Technologies Institute, supported by a National Science Foundation Graduate Research Fellowship! My main academic interest is in **natural language processing/computational linguistics**.
 
 I am specifically interested in:  
 - constructing evaluation metrics and benchmark datasets to make large language models more understandable (e.g. what linguistic information are they really capturing, what latent biases do they have, why does model x perform better than model y on task z)  
