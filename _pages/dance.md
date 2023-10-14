@@ -75,6 +75,7 @@ profile:
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, etc.
+- Stage-managed [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), fall 2023
 - Co-Produced [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023, with Kate Guerin and Divya Navani
 - Unofficially sound-designed *[intervals]*, spring 2023, with Julia Sperling
 - Produced *Falling Together*, Laura Coe's senior thesis performance, winter 2023
