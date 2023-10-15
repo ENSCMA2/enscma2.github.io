@@ -17,6 +17,7 @@ profile:
 - ballet, contemporary, modern, lyrical, character/folk, and jazz  
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - stage management, lighting design/board operations, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
+- if necessary I can also sing at like, a mezzo-soprano range
 
 ## Background
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
@@ -48,7 +49,7 @@ profile:
 
 ### Dance (choreographed by other people)
 - ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
-- Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance roles, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+- Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance + singing roles, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
 - ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
 - ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
 - ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
