@@ -17,7 +17,7 @@ profile:
 - ballet, contemporary, modern, lyrical, character/folk, and jazz  
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - stage management, lighting design/board operations, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
-- if necessary I can also sing at like, a mezzo-soprano range
+- if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
 
 ## Background
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
@@ -75,8 +75,9 @@ profile:
 - Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022, with Mira Becker
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
-### Producing, Stage-Managing, Front-of-House, etc.
-- Stage-managed [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), fall 2023
+### Producing, Stage-Managing, Front-of-House, Sound, etc.
+- Helped with sound load-in for Carrie by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), fall 2023
+- Stage-managed [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
 - Co-Produced [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023, with Kate Guerin and Divya Navani
 - Unofficially sound-designed *[intervals]*, spring 2023, with Julia Sperling
 - Produced *Falling Together*, Laura Coe's senior thesis performance, winter 2023
