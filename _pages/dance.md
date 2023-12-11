@@ -20,6 +20,8 @@ profile:
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
 
 ## Background
+- 2023 - present: ballet with [En Pointe](https://www.instagram.com/enpointe.cmu/)
+- 2023 - present: (mainly) contemporary with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
