@@ -50,9 +50,9 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "Narcissist": contemporary group dance, performed in [DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004) by DS, fall 2023
-- "Pas Des Trois Des Odalisques" from _Le Corsaire_: ballet group dance, performed in DS: RIFT, fall 2023
-- "baby C'Est La Vie!": jazz funk group dance, performed in DS: RIFT, fall 2023
+- "Narcissist": contemporary group dance, performed in _[DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004)_ by DS, fall 2023
+- "Pas Des Trois Des Odalisques" from _Le Corsaire_: ballet group dance, performed in _DS: RIFT_, fall 2023
+- "baby C'Est La Vie!": jazz funk group dance, performed in _DS: RIFT_, fall 2023
 - ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
 - Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance + singing roles, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
 - ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
@@ -71,7 +71,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for "XO" in DS: RIFT, fall 2023
+- Lighting Designer for "XO" in _DS: RIFT_, fall 2023
 - Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
 - Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
 - Lighting Designer for [*metamorphosis*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxOX-O7w0K04NZEzsVPI1a6) by HRMDC, fall 2022, with Mira Becker, Lucy Poulson, and Julia Sperling ([sample](https://youtu.be/Lb8MAVKG4l8))
