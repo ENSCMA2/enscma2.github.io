@@ -21,7 +21,7 @@ profile:
 
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.instagram.com/enpointe.cmu/)
-- 2023 - present: (mainly) contemporary with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html)
+- 2023 - present: (mainly) contemporary with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
@@ -50,6 +50,9 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- "Narcissist": contemporary group dancer, performed in [DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004) by DS, fall 2023
+- "Pas Des Trois Des Odalisques" from _Le Corsaire_: ballet group dance, performed in DS: RIFT, fall 2023
+- "baby C'Est La Vie!": jazz funk group dance, performed in DS: RIFT, fall 2023
 - ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
 - Margot (1 of 6 Grisettes) & Pontevedran Dancer: jazz & ballet small-group dance + singing roles, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
 - ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
