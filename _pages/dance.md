@@ -50,7 +50,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "Narcissist": contemporary group dancer, performed in [DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004) by DS, fall 2023
+- "Narcissist": contemporary group dance, performed in [DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004) by DS, fall 2023
 - "Pas Des Trois Des Odalisques" from _Le Corsaire_: ballet group dance, performed in DS: RIFT, fall 2023
 - "baby C'Est La Vie!": jazz funk group dance, performed in DS: RIFT, fall 2023
 - ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
