@@ -50,6 +50,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349), ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822), & ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): ballet group, character duet, & pointe small-group roles in _The Nutcracker_ by En Pointe, fall 2023
 - "Narcissist": contemporary group dance, performed in _[DS: RIFT](https://livestream.com/cmutvlive/dsrift/videos/238939004)_ by DS, fall 2023
 - "Pas Des Trois Des Odalisques" from _Le Corsaire_: ballet group dance, performed in _DS: RIFT_, fall 2023
 - "baby C'Est La Vie!": jazz funk group dance, performed in _DS: RIFT_, fall 2023
@@ -71,6 +72,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Designer for CMU's first-ever [mini-_Nutcracker_](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
 - Lighting Designer for "XO" in _DS: RIFT_, fall 2023
 - Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
 - Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
