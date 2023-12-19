@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 ## Selected Research Positions
-- **Research Intern** @**EPFL NLP** (summer 2023): investigating bias in model editing.
+- **Research Intern** @**EPFL NLP** (summer 2023): to be revealed after anonymity period passes lol
 - **Research Partner** @**Radcliffe Institute** (2021 - 2022): visualized relationships across semi-structured natural language documents under Prof. Elena Glassman. 
   - Extended into joint CS-History senior thesis, co-advised with Prof. Cemal Kafadar, (first CS + History thesis from Harvard, I think!) submitted March 2023. 
   - Thesis title: "Woven into War: Digital Humanities and Sephardi Women in the Late Ottoman Empire and its Diaspora, 1908 - 1945." 
@@ -45,14 +45,20 @@ horizontal: false
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
 - Returned in 2D form to judge hackathons, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula.
 
+### So-Called Academic Service
+- Reviewing for conferences
+  - EACL 2023
+  - EMNLP 2022
+- Mentoring
+  - CMU SCS Graduate Application Support Program Mentor
+  - Harvard WiCS Alumni Mentor
+  - (in undergrad) Harvard CS Department Peer Concentration Advisor
+  - (in undergrad) Harvard History Leadership Council member
+
 ### [ProjectCSGIRLS](https://projectcsgirls.org)
 - Developed workshops on machine learning, artificial intelligence, & natural language processing for middle school girls.
 
 ### [Phillips Brooks House Association](https://pbha.org)
 - Answered calls for the [Harvard Square Homeless Shelter](https://hshshelter.org/) resource hotline.
 - Tutored a recent immigrant in English as a Second Language.
-
-### Other Stuff From College
-- Gave people advice as a **Computer Science Department Peer Concentration Advisor**.
-- Did the same thing as part of the **History Leadership Council**.
 
