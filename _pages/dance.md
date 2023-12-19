@@ -72,7 +72,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for CMU's first-ever [mini-_Nutcracker_](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
+- Lighting Designer for CMU's first-ever [mini-Nutcracker](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
 - Lighting Designer for "XO" in _DS: RIFT_, fall 2023
 - Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
 - Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
