@@ -7,6 +7,10 @@ nav: false
 display_categories: [work, fun]
 horizontal: false
 ---
+## Grad School
+### Fall 2023
+- 11-741: Machine Learning for Text and Graph-Based Mining
+- 11-724: Human Language for Artificial Intelligence
 
 ## College
 ### Spring 2023
