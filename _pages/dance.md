@@ -14,7 +14,7 @@ profile:
 ---
 
 ## Interests
-- ballet, contemporary, modern, lyrical, character/folk, and jazz  
+- ballet, contemporary, modern, lyrical, character/folk, jazz, and musical theater
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - stage management, lighting design/board operations, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
@@ -84,7 +84,9 @@ profile:
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, Sound, etc.
-- Helped with sound load-in for Carrie by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), fall 2023
+- House Manager for Beyond Us by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), winter 2024
+- Assistant Techie in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
+- Helped with sound load-in for Carrie by S'n'S, fall 2023
 - Stage-managed [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
 - Co-Produced [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023, with Kate Guerin and Divya Navani
 - Unofficially sound-designed *[intervals]*, spring 2023, with Julia Sperling
