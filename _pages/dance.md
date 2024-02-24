@@ -33,6 +33,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- "full bloom: a folk fusion": mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
 - ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
 - ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
 - ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jessica Hung
@@ -72,6 +73,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Designer for [Train Show](https://cdn.flowcode.com/prodassets/trainshowprogranm.pdf?ts=1708729134&fce_id=eeafc0f2-ccd6-45b0-9a06-ddda3719cbc3) by [New Works Coffeehouse](https://newworkscoffee.wixsite.com/theatre), winter 2024
 - Lighting Designer for CMU's first-ever [mini-Nutcracker](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
 - Lighting Designer for ["XO"](https://www.youtube.com/watch?v=5hPy26zrGxc&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=24&ab_channel=cmuTV) in _DS: RIFT_, fall 2023
 - Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023, with Mira Becker and Lucy Poulson ([sample](https://youtu.be/nfUNlmmZ1N8))
