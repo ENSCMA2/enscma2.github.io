@@ -16,7 +16,7 @@ profile:
 ## Interests
 - ballet, contemporary, modern, lyrical, character/folk, jazz, and musical theater
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
-- lighting design/board operations, stage management, data/operations/finance management, publicity, technical production, front-of-house, sound design/board operations
+- lighting design/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/board operations
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
 
 ## Background
