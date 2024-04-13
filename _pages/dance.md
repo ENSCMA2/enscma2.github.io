@@ -91,6 +91,7 @@ profile:
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, Sound, etc.
+- Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
 - Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
 - House Manager for Beyond Us by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), winter 2024
 - Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
