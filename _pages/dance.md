@@ -14,9 +14,9 @@ profile:
 ---
 
 ## Interests
-- ballet, contemporary, modern, lyrical, character/folk, jazz, and musical theater
+- ballet, contemporary, modern, lyrical, character/folk, jazz, musical theater
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
-- lighting design/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/board operations
+- lighting design/programming/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/engineering/board operations, video/media design/engineering/operation
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
 
 ## Background
@@ -78,7 +78,7 @@ profile:
 
 ### Lighting
 - Lighting Designer for _Prelude_ by En Pointe, spring 2024
-- Lighting Designer for _Meet Cute Loop_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
+- Lighting Designer & Board Operator for _Meet Cute Loop_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
 - Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
 - Lighting Designer for [Train Show](https://www.youtube.com/watch?v=1FpMwGF1uqA&ab_channel=Scotch%27n%27Soda) by [New Works Coffeehouse](https://newworkscoffee.wixsite.com/theatre), winter 2024
