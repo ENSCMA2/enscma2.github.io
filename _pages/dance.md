@@ -33,7 +33,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
-- "Adagio": contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
+- ["Adagio"](https://www.youtube.com/live/SA-UsW-2IJI?si=4QJzEKE3Y1wuVVlH&t=2852): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
 - ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
 - ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
 - ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
@@ -52,7 +52,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "Glass Pieces," "Disappear," "Incanto": contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
+- ["Glass Pieces"](https://www.youtube.com/live/SA-UsW-2IJI?si=J3gEkkm8jNkGOpAj&t=1770), ["Disappear"](https://www.youtube.com/live/SA-UsW-2IJI?si=156KZXyy0BYGnKEu&t=3693), ["Incanto"](https://www.youtube.com/live/SA-UsW-2IJI?si=YsG5Pq_k-effgxSG&t=4439): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
 - ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
 - ["Flying"](https://livestream.com/cmutvlive/lg24/videos/243006764): contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
 - ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349), ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822), & ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): ballet group, character duet, & pointe small-group roles in _The Nutcracker_ by En Pointe, fall 2023
@@ -77,7 +77,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for _Prelude_ by En Pointe, spring 2024
+- Lighting Designer for _[Prelude](https://www.youtube.com/live/SA-UsW-2IJI?si=YsG5Pq_k-effgxSG&t=4439)_ by En Pointe, spring 2024
 - Lighting Designer & Board Operator for _Meet Cute Loop_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
 - Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
