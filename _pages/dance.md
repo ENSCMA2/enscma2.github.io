@@ -52,7 +52,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "Glass Pieces," "Disappear," "Incanto": contemporary ballet & pointe group roles in _Prelude by En Pointe, spring 2024
+- "Glass Pieces," "Disappear," "Incanto": contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
 - ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
 - ["Flying"](https://livestream.com/cmutvlive/lg24/videos/243006764): contemporary group dance, performed in _[Liminal]_(https://2024.lunargala.org/) by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
 - ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349), ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822), & ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): ballet group, character duet, & pointe small-group roles in _The Nutcracker_ by En Pointe, fall 2023
