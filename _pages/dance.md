@@ -77,7 +77,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-- Lighting Designer for _[Prelude](https://www.youtube.com/live/SA-UsW-2IJI?si=YsG5Pq_k-effgxSG&t=4439)_ by En Pointe, spring 2024
+- Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
 - Lighting Designer & Board Operator for _Meet Cute Loop_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
 - Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
