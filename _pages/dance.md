@@ -78,7 +78,7 @@ profile:
 
 ### Lighting
 - Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
-- Lighting Designer & Board Operator for _Meet Cute Loop_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
+- Lighting Designer & Board Operator for _[Meet Cute Loop](https://www.youtube.com/watch?v=4IjRwXOVSrc&ab_channel=cmufilmmakers)_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
 - Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
 - Lighting Designer for [Train Show](https://www.youtube.com/watch?v=1FpMwGF1uqA&ab_channel=Scotch%27n%27Soda) by [New Works Coffeehouse](https://newworkscoffee.wixsite.com/theatre), winter 2024
