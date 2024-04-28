@@ -21,7 +21,7 @@ profile:
 
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.contrib.andrew.cmu.edu/org/dancer/enpointe.html)
-- 2023 - present: (mainly) contemporary with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
+- 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
@@ -52,6 +52,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- ["Rain on Me"](https://livestream.com/cmutvlive/reverie/videos/244436445): jazz group dance in _DS: Reverie_, spring 2024
 - ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57), ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964), ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
 - ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
 - ["Flying"](https://livestream.com/cmutvlive/lg24/videos/243006764): contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
@@ -77,6 +78,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Designer for "Rain on Me" and "Incanto" in _[DS: Reverie](https://livestream.com/cmutvlive/reverie/videos/244436445)_, spring 2024
 - Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
 - Lighting Designer & Board Operator for _[Meet Cute Loop](https://www.youtube.com/watch?v=4IjRwXOVSrc&ab_channel=cmufilmmakers)_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
