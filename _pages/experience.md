@@ -46,6 +46,8 @@ horizontal: false
 - Returned in 2D form to judge hackathons, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula.
 
 ### So-Called Academic Service
+- Organizing NLP-related events
+  - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
 - Reviewing for conferences
   - EACL 2023
   - EMNLP 2022
