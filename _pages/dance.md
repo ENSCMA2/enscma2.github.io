@@ -78,6 +78,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
 - Assistant Lighting Designer & Board Operator for Almost Midnight A Cappella by [CMU Treblemakers](http://cmutreblemakers.com/), spring 2024
 - Lighting Designer for "Rain on Me" and "Incanto" in _[DS: Reverie](https://livestream.com/cmutvlive/reverie/videos/244436445)_, spring 2024
 - Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
@@ -97,6 +98,7 @@ profile:
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
 
 ### Producing, Stage-Managing, Front-of-House, Sound, etc.
+- Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
 - Production Coordinator & Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
 - Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
 - Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
