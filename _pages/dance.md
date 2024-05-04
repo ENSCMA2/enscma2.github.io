@@ -94,23 +94,31 @@ profile:
 - Lighting Board Operator for ["Un Viaje Por El Mundo"](https://www.canva.com/design/DAE_YXMXEKA/WzE3secx6Sh-E47Q8JQe4w/view?utm_content=DAE_YXMXEKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) by [Harvard Candela Latin Dance Troupe](https://www.instagram.com/harvardcandela/), spring 2022
 
 ### Directing
-- Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022, with Mira Becker
-- Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022, with Mira Becker
+- Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
+- Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
+- Director for Bilingual Bridges benefit concert, spring 2018
 
-### Producing, Stage-Managing, Front-of-House, Sound, etc.
-- Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
-- Production Coordinator & Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
-- Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
-- Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
-- House Manager for Beyond Us by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), winter 2024
+### Producing
+- Production Coordinator for _Prelude_ by En Pointe, spring 2024
 - Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
-- Sound load-in crew for Carrie by S'n'S, fall 2023
-- Stage Manager for [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
 - Student Producer for [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023
-- Unofficial sound designer for *[intervals]*, spring 2023
 - Producer for *Falling Together*, Laura Coe's senior thesis performance, winter 2023
-- Usher & set changeover crew for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
-- Usher for *The Merry Widow*, winter 2023
-- Stage Manager for *translations*, spring 2022, with Mira Becker
 - Treasurer for [*archive*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxp2wslBFtI6QbDuENG7Geg), fall 2021
 - Treasurer for [*daybreak*](https://www.youtube.com/playlist?list=PLIQE9U4oMexzDXIQU1069DiFh_MY_62uk), spring 2021
+  
+### Stage-Managing
+- Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
+- Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
+- Stage Manager for [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
+- Stage Manager for *translations*, spring 2022
+  
+### House-Managing
+- House Manager for Beyond Us by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), winter 2024
+- Usher & set changeover crew for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
+- Usher for *The Merry Widow*, winter 2023
+  
+### Sound
+- Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
+- Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
+- Sound load-in crew for Carrie by S'n'S, fall 2023
+- Sound designer for *[intervals]*, spring 2023
