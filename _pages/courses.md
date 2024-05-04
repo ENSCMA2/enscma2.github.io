@@ -8,6 +8,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 ## Grad School
+### Spring 2024
+- 11-711: Advanced Natural Language Processing
+- 11-830: Ethics, Social Bias, and Positive Impact in Natural Language Processing
 ### Fall 2023
 - 11-741: Machine Learning for Text and Graph-Based Mining
 - 11-724: Human Language for Artificial Intelligence
