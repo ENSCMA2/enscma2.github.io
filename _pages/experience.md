@@ -10,7 +10,8 @@ horizontal: false
 ---
 
 ## Selected Research Positions
-- **Research Intern** @**EPFL NLP** (summer 2023): to be revealed after anonymity period passes lol
+- **Research Intern** @**Apple** (summer 2024): NLP safety stuff
+- **Research Intern** @**EPFL NLP** (summer 2023): created a benchmark dataset & investigated gender & racial bias + misinformation as a consequence of model weight editing.
 - **Research Partner** @**Radcliffe Institute** (2021 - 2022): visualized relationships across semi-structured natural language documents under Prof. Elena Glassman. 
   - Extended into joint CS-History senior thesis, co-advised with Prof. Cemal Kafadar, (first CS + History thesis from Harvard, I think!) submitted March 2023. 
   - Thesis title: "Woven into War: Digital Humanities and Sephardi Women in the Late Ottoman Empire and its Diaspora, 1908 - 1945." 
@@ -48,7 +49,9 @@ horizontal: false
 ### So-Called Academic Service
 - Organizing NLP-related events
   - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
-- Reviewing for conferences
+- Reviewing for conferences & workshops
+  - Human-Centered LLMs Workshop at ACL 2024
+  - LREC-COLING 2024
   - EACL 2023
   - EMNLP 2022
 - Mentoring
