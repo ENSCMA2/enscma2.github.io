@@ -14,7 +14,7 @@ profile:
 ---
 
 ## Interests
-- ballet, contemporary, modern, lyrical, character/folk, jazz, musical theater
+- ballet, contemporary, modern, lyrical, character/folk, jazz, musical theater, (basic) tap
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - lighting design/programming/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/engineering/board operations, video/media design/engineering/operation
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
@@ -22,6 +22,8 @@ profile:
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.contrib.andrew.cmu.edu/org/dancer/enpointe.html)
 - 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
+- 2024: ballet, contemporary, & jazz with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
+- 2024: ballet & tap with [Bodiography](https://new.bodiography.com/)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
@@ -78,6 +80,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
 - Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
 - Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
 - Assistant Lighting Designer & Board Operator for Almost Midnight A Cappella by [CMU Treblemakers](http://cmutreblemakers.com/), spring 2024
