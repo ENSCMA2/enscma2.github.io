@@ -80,6 +80,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+- Lighting Designer for CMU First-Year Showcase, summer 2024
 - Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
 - Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
 - Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
