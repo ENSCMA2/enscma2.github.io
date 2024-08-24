@@ -39,7 +39,7 @@ profile:
 - ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
 - ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
 - ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
-- ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jessica Hung
+- ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jess Hung
 - ["stirring in the stillness of the night"](https://www.youtube.com/watch?v=YmTv8Euj2QE): modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
 - ["asymmetry"](https://youtu.be/4njxtqCFg0E): ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
 - ["i'll see you again"](https://youtu.be/LoWQrUFf5ic): ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
@@ -80,6 +80,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
+Skills I have so far: creating cues, magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels, researching & communicating equipment needs.
 - Lighting Designer for CMU First-Year Showcase, summer 2024
 - Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
 - Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
@@ -99,11 +100,13 @@ profile:
 - Lighting Board Operator for ["Un Viaje Por El Mundo"](https://www.canva.com/design/DAE_YXMXEKA/WzE3secx6Sh-E47Q8JQe4w/view?utm_content=DAE_YXMXEKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) by [Harvard Candela Latin Dance Troupe](https://www.instagram.com/harvardcandela/), spring 2022
 
 ### Directing
+Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
 - Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
 - Director for Bilingual Bridges benefit concert, spring 2018
 
 ### Producing
+Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, seting up & striking basic sound systems (e.g. Mackies with Honey, some Shrue SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches.
 - Production Coordinator for _Prelude_ by En Pointe, spring 2024
 - Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
 - Student Producer for [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023
@@ -112,17 +115,20 @@ profile:
 - Treasurer for [*daybreak*](https://www.youtube.com/playlist?list=PLIQE9U4oMexzDXIQU1069DiFh_MY_62uk), spring 2021
   
 ### Stage-Managing
+Skills: scheduling auditions & rehearsals, calling performer/light/sound cues, executing projection/backing track cues, removing body mics from performers, assisting with stage transitions, using ClearCom, answering cast questions.
 - Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
 - Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
 - Stage Manager for [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
 - Stage Manager for *translations*, spring 2022
   
 ### House-Managing
+Skills: coordinating publicity tabling, managing ticket sales, distributing programs & PPE, talking to patrons, ripping & counting ticket stubs, transporting instruments, chairs, stools, & music stands, placing chains for lift runs during set changeovers, communicating on radio.
 - House Manager for Beyond Us by [Scotch'n'Soda](https://www.snstheatre.org/) (S'n'S), winter 2024
 - Usher & set changeover crew for choral & orchestral concerts, speaker events, dance installations, & movie screenings at Sanders Theater, fall 2022 - winter 2023
 - Usher for *The Merry Widow*, winter 2023
   
 ### Sound
+Skills: mixing soundtracks in iMovie, creating QLab showfiles, training board operators, setting up & maintaining speakers, music, & mics.
 - Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
 - Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
 - Sound load-in crew for Carrie by S'n'S, fall 2023
