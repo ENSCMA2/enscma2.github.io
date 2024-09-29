@@ -116,9 +116,10 @@ Skills: talking to choreographers, group leaders, tech staff, & external vendors
   
 ### Stage-Managing
 Skills: scheduling auditions & rehearsals, calling performer/light/sound cues, executing projection/backing track cues, removing body mics from performers, assisting with stage transitions, using ClearCom, answering cast questions.
+- Stage Manager for [Benefit Cabaret: Legacy](https://qrto.org/6jUGaE) by S'n'S, fall 2024
 - Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
 - Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
-- Stage Manager for [Benefit Cabaret](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
+- Stage Manager for [Benefit Cabaret: Decades](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
 - Stage Manager for *translations*, spring 2022
   
 ### House-Managing
