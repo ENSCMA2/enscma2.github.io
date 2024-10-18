@@ -50,6 +50,7 @@ horizontal: false
 - Organizing NLP-related events
   - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
 - Reviewing for conferences & workshops
+  - COLING 2025
   - NLP for Positive Impact at EMNLP 2024
   - Human-Centered LLMs Workshop at ACL 2024
   - LREC-COLING 2024
