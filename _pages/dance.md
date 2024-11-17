@@ -83,7 +83,7 @@ profile:
 - Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
 
 ### Lighting
-Skills I have so far: creating cues, magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels, researching & communicating equipment needs.
+Skills I have so far: creating cues, magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
 - Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Lighting Designer for CMU First-Year Showcase, summer 2024
 - Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
@@ -111,7 +111,7 @@ Skills so far: creating show themes, storyboards, & idea docs, acquiring & setti
 - Director for Bilingual Bridges benefit concert, spring 2018
 
 ### Producing
-Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, seting up & striking basic sound systems (e.g. Mackies with Honey, some Shrue SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches.
+Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, setting up & striking basic sound systems (e.g. Mackies with Honey, some Shure SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting & training runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches, leading load-ins & strikes.
 - Production Coordinator for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Production Coordinator for _Prelude_ by En Pointe, spring 2024
 - Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
@@ -136,7 +136,7 @@ Skills: coordinating publicity tabling, managing ticket sales, distributing prog
 - Usher for *The Merry Widow*, winter 2023
   
 ### Sound
-Skills: mixing soundtracks in iMovie, creating QLab showfiles, training board operators, setting up & maintaining speakers, music, & mics.
+Skills: mixing soundtracks in iMovie, creating & operating QLab showfiles, training board operators, setting up & maintaining speakers, music, & mics.
 - Sound Engineer & Narrator for CMU's second annual _Nutcracker_, fall 2024
 - Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
 - Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
