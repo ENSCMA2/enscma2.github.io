@@ -35,6 +35,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- ["Chinese Tea"](https://youtu.be/6hTgsJbwa4M?si=o4GDRNTPc_gg56QM&t=1710): pointe duet, performed in En Pointe's second annual _Nutcracker_, fall 2024, co-choreographed with Olivia McCracken
 - ["Adagio"](https://www.youtube.com/live/jMzcVJZll1Q?si=CEDAmte1lB67zofP&t=1127): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
 - ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
 - ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
@@ -54,6 +55,8 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
+- ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/)'s Culture Night, fall 2024
 - ["Rain on Me"](https://livestream.com/cmutvlive/reverie/videos/244436445): jazz group dance in _DS: Reverie_, spring 2024
 - ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57), ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964), ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
 - ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
@@ -81,6 +84,7 @@ profile:
 
 ### Lighting
 Skills I have so far: creating cues, magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels, researching & communicating equipment needs.
+- Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Lighting Designer for CMU First-Year Showcase, summer 2024
 - Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
 - Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
@@ -101,12 +105,14 @@ Skills I have so far: creating cues, magic sheets, & basic VectorWorks plots, pr
 
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
+- Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
 - Director for Bilingual Bridges benefit concert, spring 2018
 
 ### Producing
 Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, seting up & striking basic sound systems (e.g. Mackies with Honey, some Shrue SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches.
+- Production Coordinator for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Production Coordinator for _Prelude_ by En Pointe, spring 2024
 - Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
 - Student Producer for [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023
@@ -116,11 +122,12 @@ Skills: talking to choreographers, group leaders, tech staff, & external vendors
   
 ### Stage-Managing
 Skills: scheduling auditions & rehearsals, calling performer/light/sound cues, executing projection/backing track cues, removing body mics from performers, assisting with stage transitions, using ClearCom, answering cast questions.
+- Co-Stage Manager for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Stage Manager for [Benefit Cabaret: Legacy](https://qrto.org/6jUGaE) by S'n'S, fall 2024
 - Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
 - Backdoor Stage Manager for CMU [Greek Sing](https://greeksing.com/), spring 2024
 - Stage Manager for [Benefit Cabaret: Decades](https://pdfs-of-qr-codes.s3.amazonaws.com/304fe325ca6484d8c0b5e6300a5ae40c.pdf) by S'n'S, fall 2023
-- Stage Manager for *translations*, spring 2022
+- Co-Stage Manager for *translations*, spring 2022
   
 ### House-Managing
 Skills: coordinating publicity tabling, managing ticket sales, distributing programs & PPE, talking to patrons, ripping & counting ticket stubs, transporting instruments, chairs, stools, & music stands, placing chains for lift runs during set changeovers, communicating on radio.
@@ -130,6 +137,7 @@ Skills: coordinating publicity tabling, managing ticket sales, distributing prog
   
 ### Sound
 Skills: mixing soundtracks in iMovie, creating QLab showfiles, training board operators, setting up & maintaining speakers, music, & mics.
+- Sound Engineer & Narrator for CMU's second annual _Nutcracker_, fall 2024
 - Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
 - Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
 - Sound load-in crew for Carrie by S'n'S, fall 2023
