@@ -56,7 +56,7 @@ profile:
 
 ### Dance (choreographed by other people)
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
-- ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/)'s Culture Night, fall 2024
+- ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
 - ["Rain on Me"](https://livestream.com/cmutvlive/reverie/videos/244436445): jazz group dance in _DS: Reverie_, spring 2024
 - ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57), ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964), ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
 - ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
