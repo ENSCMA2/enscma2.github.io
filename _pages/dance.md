@@ -35,6 +35,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- ["Five More Minutes"](https://www.youtube.com/live/YaI08NTVJHU?si=y467xJ2uYY1oHFm1&t=2356): contemporary group dance, performed in _[DS: Ember](https://drive.google.com/file/d/1-y4QAr74NoPEGePdh7S9c02RYwPGyGQY/view)_, fall 2024
 - ["Chinese Tea"](https://youtu.be/6hTgsJbwa4M?si=o4GDRNTPc_gg56QM&t=1710): pointe duet, performed in En Pointe's second annual _Nutcracker_, fall 2024, co-choreographed with Olivia McCracken
 - ["Adagio"](https://www.youtube.com/live/jMzcVJZll1Q?si=CEDAmte1lB67zofP&t=1127): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
 - ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
@@ -55,6 +56,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
 - ["Rain on Me"](https://livestream.com/cmutvlive/reverie/videos/244436445): jazz group dance in _DS: Reverie_, spring 2024
@@ -84,6 +86,7 @@ profile:
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
+- Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
 - Lighting Designer & Co-Board-Operator for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
 - Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Lighting Designer for CMU First-Year Showcase, summer 2024
@@ -106,6 +109,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
+- Co-Director for "[Hungarian Rhapsody](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395)," performed in *DS: Ember* , fall 2024
 - Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
 - Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
