@@ -59,10 +59,10 @@ profile:
 - ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
-- ["Rain on Me"](https://livestream.com/cmutvlive/reverie/videos/244436445): jazz group dance in _DS: Reverie_, spring 2024
+- ["Rain on Me"](https://www.youtube.com/watch?v=k5TeDfMyFRg): jazz group dance in _DS: Reverie_, spring 2024
 - ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57), ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964), ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
-- ["to love's end"](https://livestream.com/cmutvlive/arcc2024/videos/243071363): traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
-- ["Flying"](https://livestream.com/cmutvlive/lg24/videos/243006764): contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
+- "to love's end": traditional Chinese group dance, performed in _The Legend of Nezha_ by [CMU Awareness of Roots in Chinese Culture](https://www.instagram.com/cmuarcc/?hl=en)
+- "Flying": contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
 - ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349), ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822), & ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): ballet group, character duet, & pointe small-group roles in _The Nutcracker_ by En Pointe, fall 2023
 - ["Narcissist"](https://www.youtube.com/watch?v=kFLCnlM3gTs&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=6&ab_channel=cmuTV): contemporary group dance, performed in _DS: RIFT_ by DS, fall 2023
 - ["Pas Des Trois Des Odalisques" from _Le Corsaire_](https://www.youtube.com/watch?v=dyQmTcMj1ms&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=2&ab_channel=cmuTV): ballet group dance, performed in _DS: RIFT_, fall 2023
@@ -94,7 +94,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 - Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
 - Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
 - Assistant Lighting Designer & Board Operator for Almost Midnight A Cappella by [CMU Treblemakers](http://cmutreblemakers.com/), spring 2024
-- Lighting Designer for "Rain on Me" and "Incanto" in _[DS: Reverie](https://livestream.com/cmutvlive/reverie/videos/244436445)_, spring 2024
+- Lighting Designer for "Rain on Me" and "Incanto" in _DS: Reverie_, spring 2024
 - Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
 - Lighting Designer & Board Operator for _[Meet Cute Loop](https://www.youtube.com/watch?v=4IjRwXOVSrc&ab_channel=cmufilmmakers)_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
 - Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
