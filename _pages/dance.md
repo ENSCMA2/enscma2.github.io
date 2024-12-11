@@ -128,6 +128,7 @@ Skills: talking to choreographers, group leaders, tech staff, & external vendors
   
 ### Stage-Managing
 Skills: scheduling auditions & rehearsals, calling performer/light/sound cues, executing projection/backing track cues, removing body mics from performers, assisting with stage transitions, using ClearCom, answering cast questions.
+- Assistant Stage Manager for Almost Midnight A Cappella by [CMU Soundbytes](https://www.cmusoundbytes.com/), fall 2024
 - Co-Stage Manager for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Stage Manager for [Benefit Cabaret: Legacy](https://qrto.org/6jUGaE) by S'n'S, fall 2024
 - Stage Manager for Tartans Got Talent by [CMU Spring Carnival Committee](https://www.springcarnival.org/), spring 2024
