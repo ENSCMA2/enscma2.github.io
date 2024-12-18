@@ -49,9 +49,10 @@ horizontal: false
 ### So-Called Academic Service
 - Organizing NLP-related events
   - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
-- Reviewing for conferences & workshops
+- Reviewing for conferences, workshops, project courses
   - CHI 2025
   - COLING 2025 (Main & Demo Tracks)
+  - CMU LTI 11785 (Introduction to Deep Learning), fall 2024
   - NLP for Positive Impact at EMNLP 2024
   - Human-Centered LLMs Workshop at ACL 2024
   - LREC-COLING 2024
