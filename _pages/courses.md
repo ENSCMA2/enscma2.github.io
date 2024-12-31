@@ -8,6 +8,11 @@ display_categories: [work, fun]
 horizontal: false
 ---
 ## Grad School
+### Fall 2024
+- 11-775: Large-Scale Multimedia Analysis
+- 11-667: Large Language Models: Methods & Applications
+- 99-353: Design Essentials for Laser Cutting
+
 ### Spring 2024
 - 11-711: Advanced Natural Language Processing
 - 11-830: Ethics, Social Bias, and Positive Impact in Natural Language Processing
