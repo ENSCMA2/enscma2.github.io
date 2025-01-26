@@ -22,7 +22,8 @@ profile:
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.contrib.andrew.cmu.edu/org/dancer/enpointe.html)
 - 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
-- 2024: ballet, contemporary, & jazz with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
+- 2024 - present: Chinese dance with [Awareness of Roots in Chinese Culture Chinese Dance Club (ACDC)](https://cmuacdc.carrd.co/)
+- 2024 - present: ballet, contemporary, & jazz with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
 - 2024: ballet & tap with [Bodiography](https://new.bodiography.com/)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
@@ -56,6 +57,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- Opening Act (Chinese Dance) of [Greater Pittsburgh Lunar New Year Gala](https://www.post-gazette.com/local/city/2025/01/25/lunar-new-year-pittsburgh-2025-chinese-asian-pittsburgh-playhouse/stories/202501250044) (winter 2025)
 - ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
