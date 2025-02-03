@@ -57,7 +57,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- Opening Act (Chinese Dance) of [Greater Pittsburgh Lunar New Year Gala](https://www.post-gazette.com/local/city/2025/01/25/lunar-new-year-pittsburgh-2025-chinese-asian-pittsburgh-playhouse/stories/202501250044) (winter 2025)
+- Opening Act (Chinese Dance) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/) (winter 2025)
 - ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
@@ -88,6 +88,7 @@ profile:
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
+- Spotlight Operator for "Chinese New Year Extravaganza" by [CMU Chinese Students & Scholars Association](https://tartanconnect.cmu.edu/cssa/home/), winter 2025
 - Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
 - Lighting Designer & Co-Board-Operator for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
 - Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
