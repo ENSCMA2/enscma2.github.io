@@ -36,6 +36,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- "don't let go": contemporary/lyrical solo, performed in [National Choreography Month Pittsburgh](https://www.nachmo.org/pittsburgh-pa), winter 2025
 - ["Five More Minutes"](https://www.youtube.com/live/YaI08NTVJHU?si=y467xJ2uYY1oHFm1&t=2356): contemporary group dance, performed in _[DS: Ember](https://drive.google.com/file/d/1-y4QAr74NoPEGePdh7S9c02RYwPGyGQY/view)_, fall 2024
 - ["Chinese Tea"](https://youtu.be/6hTgsJbwa4M?si=o4GDRNTPc_gg56QM&t=1710): pointe duet, performed in En Pointe's second annual _Nutcracker_, fall 2024, co-choreographed with Olivia McCracken
 - ["Adagio"](https://www.youtube.com/live/jMzcVJZll1Q?si=CEDAmte1lB67zofP&t=1127): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
