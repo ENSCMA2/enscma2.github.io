@@ -30,7 +30,7 @@ horizontal: false
 ## Other Research(-ish) Stuff
 - Class projects in Computer Science:
   - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings (**[CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/)**, fall 2021).
-  - An in-progress attempt at data augmentation for algorithmic fairness (**CS 226R - Topics in Theory for Society**, spring 2022).
+  - A critical re-evaluation of data augmentation for algorithmic fairness (**CS 226R - Topics in Theory for Society**, spring 2022).
 - Class projects in History:
   - "Autism and Emotion in the Public Eye, 1943 - 2019": a historical investigation of public perceptions of emotions and emotionality associated with autism from 1943 to 2019 (**Hist 12P - History of Emotions**, spring 2022).
   - "Colonial Communication: The Telegraph and the Cheyenne People": an exploration of how the construction of the telegraph around present-day Colorado impacted the Cheyenne people from 1860 - 1871 (**Hist 60O - American Indian History in 4 Acts**, fall 2021).
