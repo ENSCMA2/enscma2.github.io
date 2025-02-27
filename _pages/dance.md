@@ -58,7 +58,7 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- Opening Act (Chinese Dance) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/) (winter 2025)
+- [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/) (winter 2025)
 - ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
