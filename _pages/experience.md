@@ -50,6 +50,7 @@ horizontal: false
 - Organizing NLP-related events
   - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
 - Reviewing for conferences, workshops, project courses
+  - Computational Linguistics and Clinical Psychology at NAACL 2025
   - FAccT 2025
   - CHI 2025
   - COLING 2025 (Main & Demo Tracks)
