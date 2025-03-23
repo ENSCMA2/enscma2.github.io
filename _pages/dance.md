@@ -60,6 +60,7 @@ profile:
 ### Dance (choreographed by other people)
 - [Training For The Sword](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
 - [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/) (winter 2025)
+- "[Hungarian Rhapsody](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395)," pointe group dance in *DS: Ember*, fall 2024
 - ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
 - ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
 - ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
