@@ -36,6 +36,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
 - ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
 - ["don't let go"](https://youtu.be/FhPDG3mAfu8): contemporary/lyrical solo, performed in [National Choreography Month Pittsburgh](https://www.nachmo.org/pittsburgh-pa), winter 2025
 - ["Five More Minutes"](https://www.youtube.com/live/YaI08NTVJHU?si=y467xJ2uYY1oHFm1&t=2356): contemporary group dance, performed in _[DS: Ember](https://drive.google.com/file/d/1-y4QAr74NoPEGePdh7S9c02RYwPGyGQY/view)_, fall 2024
