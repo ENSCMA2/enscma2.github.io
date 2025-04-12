@@ -36,6 +36,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
+- ["Where Do I Start"](https://www.youtube.com/live/YIEUx6m92_g?si=EPhVeNbuTPH1V2bJ&t=2843): ballet small-group dance, performed in [_Rêve_](https://www.youtube.com/playlist?list=PL7poMq1XiKozWNq45DqPBBHfP5hnWnNQH) by En Pointe, spring 2025
 - ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
 - ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
 - ["don't let go"](https://youtu.be/FhPDG3mAfu8): contemporary/lyrical solo, performed in [National Choreography Month Pittsburgh](https://www.nachmo.org/pittsburgh-pa), winter 2025
@@ -60,6 +61,8 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
+- ["Dulcinea" from the _Don Quixote_ Dream Scene](https://youtu.be/1uYVpSNEEFQ?si=Wdq7iwcOY-x7gr4e&t=134): pointe solo role in _Rêve_ by En Pointe, spring 2025
+- ["Serenade for Strings"](https://youtu.be/1uYVpSNEEFQ?si=ArmIWvGhqplKNuqq&t=1409): pointe small-group role in _Rêve_ by En Pointe, spring 2025
 - ["Training For The Sword"](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
 - [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/) (winter 2025)
 - ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), pointe group dance in *DS: Ember*, fall 2024
@@ -93,6 +96,7 @@ profile:
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
+- Lighting Designer for [_Rêve_](https://youtube.com/live/YIEUx6m92_g) by En Pointe, spring 2025
 - Spotlight Operator for "Chinese New Year Extravaganza" by [CMU Chinese Students & Scholars Association](https://tartanconnect.cmu.edu/cssa/home/), winter 2025
 - Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
 - Lighting Designer & Co-Board-Operator for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
@@ -117,6 +121,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
+- Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
 - Co-Director for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in *DS: Ember*, fall 2024
 - Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
@@ -125,6 +130,7 @@ Skills so far: creating show themes, storyboards, & idea docs, acquiring & setti
 
 ### Producing
 Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, setting up & striking basic sound systems (e.g. Mackies with Honey, some Shure SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting & training runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches, leading load-ins & strikes.
+- Production Coordinator for _Rêve_ by En Pointe, spring 2025
 - Techie in Charge (Production Manager) for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
 - Production Coordinator for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
 - Production Coordinator for _Prelude_ by En Pointe, spring 2024
@@ -136,6 +142,7 @@ Skills: talking to choreographers, group leaders, tech staff, & external vendors
   
 ### Stage-Managing
 Skills: scheduling auditions & rehearsals, calling performer/light/sound cues, executing projection/backing track cues, removing body mics from performers, assisting with stage transitions, using ClearCom, answering cast questions.
+- Co-Stage Manager for _Rêve_ by En Pointe, spring 2025
 - Stage Manager for [Taalam](https://www.youtube.com/watch?v=0WpMfrAdmxU) by [CMU Abhinaya](https://www.youtube.com/@cmu.abhinaya), winter 2025
 - Assistant Stage Manager for Almost Midnight A Cappella by [CMU Soundbytes](https://www.cmusoundbytes.com/), fall 2024
 - Co-Stage Manager for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
@@ -153,6 +160,7 @@ Skills: coordinating publicity tabling, managing ticket sales, distributing prog
   
 ### Sound
 Skills: mixing soundtracks in iMovie, creating & operating QLab showfiles, training board operators, setting up & maintaining speakers, music, & mics.
+- Sound + Projections Engineer for _Rêve_ by En Pointe, spring 2025
 - Sound Engineer & Narrator for CMU's second annual _Nutcracker_, fall 2024
 - Sound Engineer & Co-Emcee for CMU LLM Agent Workshop, spring 2024
 - Sound + Projections Engineer for _Prelude_ by En Pointe, spring 2024
