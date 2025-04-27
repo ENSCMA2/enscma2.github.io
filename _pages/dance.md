@@ -142,6 +142,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
 - Co-Répétiteur for ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451), performed in _DS: Rogue_, spring 2025
+- Co-Répétiteur for ["Dream Scene" from _Don Quixote_](https://youtu.be/1uYVpSNEEFQ?si=58ebKJpmlUk_Ul9z&t=24), performed in _Rêve_, spring 2025
 - Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
 - Co-Répétiteur for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in _DS: Ember_, fall 2024
 - Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
