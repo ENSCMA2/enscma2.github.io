@@ -36,7 +36,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
-- ["Symphony"](https://www.youtube.com/live/b0c_nARdjsw?si=lHX2A1m0nHIQpGax): jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_
+- ["Symphony"](https://www.youtube.com/live/b0c_nARdjsw?si=GVOoAfSwCVMrG1yR&t=5100): jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_
 - ["Where Do I Start"](https://www.youtube.com/live/YIEUx6m92_g?si=EPhVeNbuTPH1V2bJ&t=2843): ballet small-group dance, performed in [_Rêve_](https://www.youtube.com/playlist?list=PL7poMq1XiKozWNq45DqPBBHfP5hnWnNQH) by En Pointe, spring 2025
 - ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
 - ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
