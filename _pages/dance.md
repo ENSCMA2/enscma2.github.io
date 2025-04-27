@@ -36,7 +36,7 @@ profile:
 
 ## Selected Stage Experience
 ### Choreography
-- "Symphony": jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_
+- ["Symphony"](https://www.youtube.com/live/b0c_nARdjsw?si=lHX2A1m0nHIQpGax): jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_
 - ["Where Do I Start"](https://www.youtube.com/live/YIEUx6m92_g?si=EPhVeNbuTPH1V2bJ&t=2843): ballet small-group dance, performed in [_Rêve_](https://www.youtube.com/playlist?list=PL7poMq1XiKozWNq45DqPBBHfP5hnWnNQH) by En Pointe, spring 2025
 - ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
 - ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
@@ -62,9 +62,9 @@ profile:
 - ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
-- "La Donna": pointe group dance in _DS: Rogue_, spring 2025
-- "The door": contemporary/jazz group dance in _DS: Rogue_, spring 2025
-- "Sweet Disposition": contemporary group dance in _DS: Rogue_, spring 2025
+- ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451): pointe group dance in _DS: Rogue_, spring 2025
+- ["The door"](https://www.youtube.com/live/b0c_nARdjsw?si=b95AEENfK9Rglozg&t=1908): contemporary/jazz group dance in _DS: Rogue_, spring 2025
+- ["Sweet Disposition"](https://www.youtube.com/live/b0c_nARdjsw?si=rO3xQs7-8uKgP3XX&t=3326): contemporary group dance in _DS: Rogue_, spring 2025
 - ["Dulcinea" from the _Don Quixote_ Dream Scene](https://youtu.be/1uYVpSNEEFQ?si=Wdq7iwcOY-x7gr4e&t=134): pointe solo role in _Rêve_ by En Pointe, spring 2025
 - ["Serenade for Strings"](https://youtu.be/1uYVpSNEEFQ?si=ArmIWvGhqplKNuqq&t=1409): pointe small-group role in _Rêve_ by En Pointe, spring 2025
 - ["Training For The Sword"](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
@@ -88,19 +88,32 @@ profile:
 - ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
 - ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
 - ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
-- Trio from *Walpurgisnacht*: ballet, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
-- Snow Queen: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
-- Garden Enchantress: ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
-- "Bells" from *Fountain of Bakhchisarai*: lead role in ballet trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
-- Trolls, Robbers, Icicles: ballet large-group roles, performed in *The Snow Queen* by Bayer Ballet, fall 2014
-- Lead Chinese: ballet role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
-- Little Sheep: ballet trio, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2012
-- Moldavian Dance: Moldavian folk large-group dance, performed in *Springtime Novelettes* and International School of the Peninsula Gala with Bayer Ballet, spring 2012 & 2013
-- Hershey Kiss, Waltz of the Flowers, Snow Scene: ballet large-group roles, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011 - 2013
+- Trio from *Walpurgisnacht*: pointe small-group role, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
+- "Neapolitan Dance" from _Swan Lake_: Italian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet Academy, spring 2016
+- "Snow Queen": ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
+- "Garden Enchantress": pointe role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
+- "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
+- "Seguidilla" from _Don Quixote_: Spanish folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2015
+- Trolls, Robbers, Icicles: ballet group roles, performed in *The Snow Queen* by Bayer Ballet, fall 2014
+- Corps de Ballet in Wedding Scene from _La Esmeralda_: pointe group role, performed in summer intensive showcase by Bayer Ballet, summer 2014
+- Corps de Ballet in "Le Jardin Animé" from _Le Corsaire_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2014
+- "Mazurka" from _Swan Lake_: Polish folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2014
+- Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
+- "Tarantella" from _Napoli_: Italian folk group dance, performed in summer intensive showcase by Bayer Ballet, summer 2012
+- Little Sheep: pointe trio, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2012
+- "Dance of the Snowflakes" & "Waltz of the Flowers": pointe group roles, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2012 & 2013
+- "Coral" from _The Little Humpbacked Horse_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
+- "Russian Dance": Russian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
+- "Tarantella Napoletana": Italian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
+- "Moldavian Dance": Moldavian folk group dance, performed in *Springtime Novelettes* and International School of the Peninsula Gala with Bayer Ballet, spring 2012 & 2013
+- "Hershey Kiss": ballet group role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011
+- "Danse Espagnole" from _Swan Lake_: ballet group role, performed in Pacific Ballet Academy spring showcase, spring 2011
+- "Party Scene Boy": ballet group role, performed in _The Nutcracker_ by Pacific Ballet Academy, fall 2010
+- "Soldier": ballet group role, performed in _The Nutcracker_ by Pacific Ballet Academy, fall 2009
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
-- Lighting Designer for "Symphony" in _DS: Rogue_, spring 2025
+- Lighting Designer for ["Symphony"](https://youtu.be/LgZT_e4BX8o?si=MLWgOQqGNKAihLZl&t=3711) in _DS: Rogue_, spring 2025
 - Lighting Designer for [_Rêve_](https://youtube.com/live/YIEUx6m92_g) by En Pointe, spring 2025
 - Spotlight Operator for "Chinese New Year Extravaganza" by [CMU Chinese Students & Scholars Association](https://tartanconnect.cmu.edu/cssa/home/), winter 2025
 - Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
@@ -126,7 +139,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
-- Co-Répétiteur for "La Donna", performed in _DS: Rogue_, spring 2025
+- Co-Répétiteur for ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451), performed in _DS: Rogue_, spring 2025
 - Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
 - Co-Répétiteur for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in _DS: Ember_, fall 2024
 - Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
