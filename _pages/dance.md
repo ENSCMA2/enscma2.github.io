@@ -94,6 +94,7 @@ profile:
 - "Garden Enchantress": pointe role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
 - "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
 - "Seguidilla" from _Don Quixote_: Spanish folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2015
+- "Medora's Friends" from _Le Corsaire_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2015
 - Trolls, Robbers, Icicles: ballet group roles, performed in *The Snow Queen* by Bayer Ballet, fall 2014
 - Corps de Ballet in Wedding Scene from _La Esmeralda_: pointe group role, performed in summer intensive showcase by Bayer Ballet, summer 2014
 - Corps de Ballet in "Le Jardin Animé" from _Le Corsaire_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2014
