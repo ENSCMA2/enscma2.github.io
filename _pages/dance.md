@@ -102,7 +102,8 @@ profile:
 - Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
 - "Tarantella" from _Napoli_: Italian folk group dance, performed in summer intensive showcase by Bayer Ballet, summer 2012
 - Little Sheep: pointe trio, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2012
-- "Dance of the Snowflakes" & "Waltz of the Flowers": pointe group roles, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2012 & 2013
+- "Dance of the Snowflakes": pointe group role, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2012 & 2013
+- "Waltz of the Flowers": pointe group role, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2011 - 2013
 - "Coral" from _The Little Humpbacked Horse_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
 - "Russian Dance": Russian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
 - "Tarantella Napoletana": Italian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
