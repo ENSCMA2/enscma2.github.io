@@ -88,30 +88,16 @@ profile:
 - ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
 - ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
 - ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
-- Trio from *Walpurgisnacht*: pointe small-group role, performed in *Springtime Novelettes* by Bayer Ballet Academy, spring 2016
-- "Neapolitan Dance" from _Swan Lake_: Italian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet Academy, spring 2016
-- "Snow Queen": ballet role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
-- "Garden Enchantress": pointe role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
+- "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
+- "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
 - "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
-- "Seguidilla" from _Don Quixote_: Spanish folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2015
-- "Medora's Friends" from _Le Corsaire_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2015
-- Trolls, Robbers, Icicles: ballet group roles, performed in *The Snow Queen* by Bayer Ballet, fall 2014
-- Corps de Ballet in Wedding Scene from _La Esmeralda_: pointe group role, performed in summer intensive showcase by Bayer Ballet, summer 2014
-- Corps de Ballet in "Le Jardin Animé" from _Le Corsaire_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2014
-- "Mazurka" from _Swan Lake_: Polish folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2014
 - Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
-- "Tarantella" from _Napoli_: Italian folk group dance, performed in summer intensive showcase by Bayer Ballet, summer 2012
-- Little Sheep: pointe trio, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2012
-- "Dance of the Snowflakes": pointe group role, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2012 & 2013
-- "Waltz of the Flowers": pointe group role, performed in _Winter Fairy Tale_ by Bayer Ballet, fall 2011 - 2013
-- "Coral" from _The Little Humpbacked Horse_: pointe group role, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
-- "Russian Dance": Russian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
-- "Tarantella Napoletana": Italian folk group dance, performed in _Springtime Novelettes_ by Bayer Ballet, spring 2012
-- "Moldavian Dance": Moldavian folk group dance, performed in *Springtime Novelettes* and International School of the Peninsula Gala with Bayer Ballet, spring 2012 & 2013
-- "Hershey Kiss": ballet group role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2011
+- Pointe small-group roles at Bayer Ballet: "Nymphs" from *Walpurgisnacht* (spring 2016), "Little Sheep" (fall 2012), "Coral" from _The Little Humpbacked Horse_ (spring 2012)
+- Corps de Ballet pointe roles at Bayer Ballet: "Medora's Friends" from _Le Corsaire_ (spring 2015), "Icicles" (fall 2014), Wedding Scene from _La Esmeralda_ (summer 2014), "Waltz of the Flowers" (fall 2011 - 2013), "Dance of the Snowflakes" (fall 2012 & 2013), "Le Jardin Animé" from _Le Corsaire_ (spring 2014)
+- Corps de Ballet roles at Bayer Ballet: Trolls, Robbers (*The Snow Queen*, fall 2014); "Hershey Kiss," "Chinese Tea" (_Winter Fairy Tale_, fall 2011)
+- Character group dances an Bayer Ballet: "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016), "Seguidilla" from _Don Quixote_ (Spanish, spring 2015), "Mazurka" from _Swan Lake_ (Polish, spring 2014), "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala), "Tarantella" from _Napoli_ (Italian, summer 2012), "Russian Dance" (Russian, spring 2012), "Tarantella Napoletana" (Italian, spring 2012), 
 - "Danse Espagnole" from _Swan Lake_: ballet group role, performed in Pacific Ballet Academy spring showcase, spring 2011
-- "Party Scene Boy": ballet group role, performed in _The Nutcracker_ by Pacific Ballet Academy, fall 2010
-- "Soldier": ballet group role, performed in _The Nutcracker_ by Pacific Ballet Academy, fall 2009
+- Pacific Ballet Academy's _Nutcracker_, ballet group roles: "Party Scene Boy" (fall 2010), "Soldier" (fall 2009)
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
