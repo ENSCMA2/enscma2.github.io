@@ -93,8 +93,8 @@ profile:
 - "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
 - Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
 - Pointe small-group roles at Bayer Ballet: "Nymphs" from *Walpurgisnacht* (spring 2016), "Little Sheep" (fall 2012), "Coral" from _The Little Humpbacked Horse_ (spring 2012)
-- Corps de Ballet pointe roles at Bayer Ballet: "Medora's Friends" from _Le Corsaire_ (spring 2015), "Icicles" (fall 2014), Wedding Scene from _La Esmeralda_ (summer 2014), "Waltz of the Flowers" (fall 2011 - 2013), "Dance of the Snowflakes" (fall 2012 & 2013), "Le Jardin Animé" from _Le Corsaire_ (spring 2014)
-- Corps de Ballet roles at Bayer Ballet: Trolls, Robbers (*The Snow Queen*, fall 2014); "Hershey Kiss," "Chinese Tea" (_Winter Fairy Tale_, fall 2011)
+- Corps de Ballet pointe roles at Bayer Ballet: "Medora's Friends" from _Le Corsaire_ (spring 2015), "Icicles" (fall 2014), Wedding Scene from _La Esmeralda_ (summer 2014), "Waltz of the Flowers" (fall 2012 & 2013), "Dance of the Snowflakes" (fall 2012 & 2013), "Le Jardin Animé" from _Le Corsaire_ (spring 2014)
+- Corps de Ballet roles at Bayer Ballet: Trolls, Robbers (*The Snow Queen*, fall 2014); "Hershey Kiss," "Chinese Tea," "Waltz of the Flowers" (_Winter Fairy Tale_, fall 2011)
 - Character group dances an Bayer Ballet: "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016), "Seguidilla" from _Don Quixote_ (Spanish, spring 2015), "Mazurka" from _Swan Lake_ (Polish, spring 2014), "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala), "Tarantella" from _Napoli_ (Italian, summer 2012), "Russian Dance" (Russian, spring 2012), "Tarantella Napoletana" (Italian, spring 2012), 
 - "Danse Espagnole" from _Swan Lake_: ballet group role, performed in Pacific Ballet Academy spring showcase, spring 2011
 - Pacific Ballet Academy's _Nutcracker_, ballet group roles: "Party Scene Boy" (fall 2010), "Soldier" (fall 2009)
