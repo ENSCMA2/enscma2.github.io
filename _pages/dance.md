@@ -170,10 +170,10 @@ Skills so far: creating show themes, storyboards, & idea docs, acquiring & setti
 
 ### Producing
 Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, setting up & striking basic sound systems (e.g. Mackies with Honey, some Shure SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting & training runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches, leading load-ins & strikes.
-1. Production Coordinator for _Rêve_ by En Pointe, spring 2025
+1. Producer for _Rêve_ by En Pointe, spring 2025
 2. Techie in Charge (Production Manager) for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
-3. Production Coordinator for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
-4. Production Coordinator for _Prelude_ by En Pointe, spring 2024
+3. Producer for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
+4. Producer for _Prelude_ by En Pointe, spring 2024
 5. Assistant [Techie](https://abtech.org/) in Charge for CMU LTI's Welcome Back Party & Talent Show, winter 2024
 6. Student Producer for [ARTS FIRST DanceFest](https://www.youtube.com/live/Xj_NjSlajLk?feature=share), spring 2023
 7. Producer for *Falling Together*, Laura Coe's senior thesis performance, winter 2023
