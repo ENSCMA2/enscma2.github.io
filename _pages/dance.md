@@ -87,6 +87,7 @@ profile:
 21. ["Narcissist"](https://www.youtube.com/watch?v=kFLCnlM3gTs&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=6&ab_channel=cmuTV): contemporary group dance, performed in _DS: RIFT_ by DS, fall 2023
 22. ["Pas Des Trois Des Odalisques" from _Le Corsaire_](https://www.youtube.com/watch?v=dyQmTcMj1ms&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=2&ab_channel=cmuTV): ballet group dance, performed in _DS: RIFT_, fall 2023
 23. ["baby C'Est La Vie!"](https://www.youtube.com/watch?v=kO67z9RwOjU&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=28&ab_channel=cmuTV): jazz funk group dance, performed in _DS: RIFT_, fall 2023
+
 #### Harvard University
 24. ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
 25. Margot (1 of 6 Grisettes): jazz small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
@@ -96,15 +97,20 @@ profile:
 29. ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
 30. ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
 31. ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
+
 #### Bayer Ballet Academy
+
+##### Solo roles:
 32. "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
 33. "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
 34. "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
 35. Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
+
 ##### Pointe small-group roles:
 36. "Nymphs" from *Walpurgisnacht*: performed in _Springtime Novelettes_, spring 2016
 37. "Little Sheep": performed in _A Winter Fairy Tale_, fall 2012)
 38. "Coral" from _The Little Humpbacked Horse_: performed in _Springtime Novelettes_, spring 2012
+
 ##### Corps de Ballet pointe roles:
 39. "Medora's Friends" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2015
 40. "Icicles": performed in _The Snow Queen_, fall 2014
@@ -112,12 +118,14 @@ profile:
 42. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2012 & 2013
 43. "Dance of the Snowflakes": performed in _A Winter Fairy Tale_, fall 2012 & 2013
 44. "Le Jardin Animé" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2014
+
 ##### Corps de Ballet roles:
 45. "Trolls": performed in _The Snow Queen_, fall 2014
 46. "Robbers": performed in _The Snow Queen_, fall 2014
 47. "Hershey Kisses": performed in _A Winter Fairy Tale_, fall 2011
 48. "Chinese Tea": performed in _A Winter Fairy Tale_, fall 2011
 49. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2011
+
 ##### Character group dances in _Springtime Novelettes_ and summer intensive showcases:
 50. "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016)
 51. "Seguidilla" from _Don Quixote_ (Spanish, spring 2015)
@@ -126,6 +134,7 @@ profile:
 54. "Tarantella" from _Napoli_ (Italian, summer 2012)
 55. "Russian Dance" (Russian, spring 2012)
 56. "Tarantella Napoletana" (Italian, spring 2012)
+
 #### Pacific Ballet Academy (ballet group roles)
 57. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
 58. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
