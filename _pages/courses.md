@@ -8,6 +8,12 @@ display_categories: [work, fun]
 horizontal: false
 ---
 ## Grad School
+
+### Spring 2025
+- 11-797: Question Answering
+- 17-756: Computational Social Science: Data Analysis & Research Design
+- 57-112: Movement & Dance II
+
 ### Fall 2024
 - 11-775: Large-Scale Multimedia Analysis
 - 11-667: Large Language Models: Methods & Applications
