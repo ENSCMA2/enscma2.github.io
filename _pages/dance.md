@@ -22,9 +22,9 @@ profile:
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.contrib.andrew.cmu.edu/org/dancer/enpointe.html)
 - 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
-- 2025 - present: ballet, contemporary, jazz, modern with [fireWALL Dance Theater](firewalldance.com)
 - 2024 - present: Chinese dance with [Awareness of Roots in Chinese Culture Chinese Dance Club (ACDC)](https://cmuacdc.carrd.co/)
 - 2024 - present: ballet, contemporary, & jazz with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
+- 2025 - present: ballet, contemporary, jazz, modern with [fireWALL Dance Theater](firewalldance.com)
 - 2024: ballet & tap with [Bodiography](https://new.bodiography.com/)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
