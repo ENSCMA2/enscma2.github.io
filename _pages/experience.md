@@ -10,6 +10,7 @@ horizontal: false
 ---
 
 ## Selected Research Positions
+- **Research Intern** @**Comcast** (summer 2025): recsys stuff
 - **Research Intern** @**Apple** (summer 2024): NLP safety stuff
 - **Research Intern** @**EPFL NLP** (summer 2023): created a benchmark dataset & investigated gender & racial bias + misinformation as a consequence of model weight editing.
 - **Research Partner** @**Radcliffe Institute** (2021 - 2022): visualized relationships across semi-structured natural language documents under Prof. Elena Glassman. 
@@ -28,10 +29,9 @@ horizontal: false
 
 
 ## Other Research(-ish) Stuff
-- Class projects in Computer Science:
-  - A failed attempt at using transfer learning from Chinese character embeddings to improve Japanese word embeddings (**[CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/)**, fall 2021).
-  - A critical re-evaluation of data augmentation for algorithmic fairness (**CS 226R - Topics in Theory for Society**, spring 2022).
-- Class projects in History:
+- Class projects:
+  - Fine-tuning LLMs for discharge disposition prediction in clinical settings (**[11-667 - Large Language Models: Methods & Applications](https://cmu-llms.org/)**, fall 2024).
+  - Using transfer learning from Chinese character embeddings to improve Japanese word embeddings (**[CS 287 - Deep Learning for NLP](https://harvard-iacs.github.io/CS287/)**, fall 2021).
   - "Autism and Emotion in the Public Eye, 1943 - 2019": a historical investigation of public perceptions of emotions and emotionality associated with autism from 1943 to 2019 (**Hist 12P - History of Emotions**, spring 2022).
   - "Colonial Communication: The Telegraph and the Cheyenne People": an exploration of how the construction of the telegraph around present-day Colorado impacted the Cheyenne people from 1860 - 1871 (**Hist 60O - American Indian History in 4 Acts**, fall 2021).
 - **Tech Officer** for **Congresswoman Anna Eshoo's Student Advisory Board** (fall 2017-spring 2019): wrote policy proposals for bilingual education and regulating personal data acquisition, sitting somewhere in the Library of Congress. Learned what a categorical grant was and answered a question about it on the spot at the 2019 **Modeling the Future Challenge** (won 1st place).
@@ -44,7 +44,7 @@ horizontal: false
 - Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
 - Launched and wrote curriculum for a network of computational linguistics clubs.
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
-- Returned in 2D form to judge hackathons, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula.
+- Returned in 2D form to judge hackathons, mentor participants, direct curriculum, lead operations, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula for 3rd - 6th iterations of hackathon.
 
 ### So-Called Academic Service
 - Organizing NLP-related events
