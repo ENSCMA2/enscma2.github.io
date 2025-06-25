@@ -35,9 +35,10 @@ profile:
 - 2016 - 2019: jazz, lyrical, contemporary, ballet, & character with Los Altos High School Advanced Jazz Dance
 - 2016 - 2019: ballet with [Bay Area Dance School](https://www.bayareadances.com/)
 - 2011 - 2016: ballet, contemporary, & character with [Bayer Ballet Academy](https://www.bayerballet.com/)
-- 2009 - 2011: ballet with [Pacific Ballet Academy](https://www.pacificballet.org/calendar)
+- 2009 - 2011: ballet with [Pacific Ballet Academy](https://www.pacificballet.org/)
 - 2007 - 2009: Chinese dance with [Jun Lu Performing Arts Academy](https://www.jludance.com/)
-- 2004 - 2007: ballet with Pacific Ballet Academy
+- 2005 - 2007: ballet with Pacific Ballet Academy
+- 2004 - 2005: pre-ballet with [Menlo Park Academy of Dance](https://menloparkacademyofdance.com/)
 
 ## Selected Stage Experience
 ### Choreography
