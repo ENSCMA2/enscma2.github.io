@@ -13,10 +13,14 @@ profile:
   image_circular: false  
 ---
 
-## Interests
-- ballet, contemporary, modern, lyrical, character/folk, jazz, musical theater, (basic) tap
+## Interests/Skills
+- Dance styles
+  - Advanced: ballet (+ pointe), contemporary, lyrical, character (Russian, Moldavian, Hungarian, Polish, Italian, Spanish), jazz
+  - Intermediate: modern, musical theater, Chinese dance
+  - Beginner: tap, heels, hip hop
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - lighting design/programming/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/engineering/board operations, video/media design/engineering/operation
+- teaching dance (the styles where I am "advanced")
 - if necessary I can also sing at like, a mezzo-soprano range, either operatically or not operatically whatever
 
 ## Background
@@ -24,7 +28,7 @@ profile:
 - 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
 - 2024 - present: Chinese dance with [Awareness of Roots in Chinese Culture Chinese Dance Club (ACDC)](https://cmuacdc.carrd.co/)
 - 2024 - present: ballet, contemporary, & jazz with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
-- 2025 - present: ballet, contemporary, jazz, modern with [fireWALL Dance Theater](firewalldance.com)
+- 2025 - present: ballet, contemporary, jazz, modern, tap, heels, hip hop with [fireWALL Dance Theater](firewalldance.com)
 - 2024: ballet & tap with [Bodiography](https://new.bodiography.com/)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
