@@ -24,6 +24,7 @@ nav_order: 5
 - **Intro to Python** & **Intro to Deep Learning**, workshops at LingHacks I, April 2018
 
 ## None of the Above
+- **Code, Create, & Innovate with AI** ([PAS4AI Workforce](https://cmu-variability.github.io/pas4aiworkforce/)): Instructor, Spring 2025
 - **Mentor Certificate**, training for [Public Service Academy](https://publicservice.fas.harvard.edu/buttenwieser-public-service-academy), September 2021
 - **Natural Language Processing with Python**, workshop for [ProjectCSGIRLS](https://www.projectcsgirls.org), August 2020
 - **Data Analysis and Web Apps in R Shiny**, course for [Wave Learning Festival](https://www.wavelf.org/), August 2020, co-taught with Lucas Pao
