@@ -53,7 +53,7 @@ horizontal: false
   - Workshop on NLP for Democracy @ COLM 2025
   - Workshop on Online Abuse & Harms @ ACL 2025
   - Integrating NLP and Psychology to Study Social Interactions @ ICWSM 2025
-  - Association for Computational Linguistics Rolling Review, February 2025
+  - Association for Computational Linguistics Rolling Review, February 2025 - present
   - Computational Linguistics and Clinical Psychology at NAACL 2025
   - FAccT 2025
   - CHI 2025
