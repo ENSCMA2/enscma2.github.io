@@ -146,7 +146,7 @@ profile:
 #### Pacific Ballet Academy (ballet group roles)
 57. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
 58. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
-59. "Soldier": performed in _The Nutcracker_, fall 2009)
+59. "Soldier": performed in _The Nutcracker_, fall 2009
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
