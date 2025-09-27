@@ -43,30 +43,31 @@ profile:
 ## Selected Stage Experience
 ### Choreography
 
-1. ["Symphony"](https://www.youtube.com/live/b0c_nARdjsw?si=GVOoAfSwCVMrG1yR&t=5100): jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_, spring 2025
-2. ["Where Do I Start"](https://www.youtube.com/live/YIEUx6m92_g?si=EPhVeNbuTPH1V2bJ&t=2843): ballet small-group dance, performed in [_Rêve_](https://www.youtube.com/playlist?list=PL7poMq1XiKozWNq45DqPBBHfP5hnWnNQH) by En Pointe, spring 2025
-3. ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
-4. ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
-5. ["don't let go"](https://youtu.be/FhPDG3mAfu8): contemporary/lyrical solo, performed in [National Choreography Month Pittsburgh](https://www.nachmo.org/pittsburgh-pa), winter 2025
-6. ["Five More Minutes"](https://www.youtube.com/live/YaI08NTVJHU?si=y467xJ2uYY1oHFm1&t=2356): contemporary group dance, performed in _[DS: Ember](https://drive.google.com/file/d/1-y4QAr74NoPEGePdh7S9c02RYwPGyGQY/view)_, fall 2024
-7. ["Chinese Tea"](https://youtu.be/6hTgsJbwa4M?si=o4GDRNTPc_gg56QM&t=1710): pointe duet, performed in En Pointe's second annual _Nutcracker_, fall 2024, co-choreographed with Olivia McCracken
-8. ["Adagio"](https://www.youtube.com/live/jMzcVJZll1Q?si=CEDAmte1lB67zofP&t=1127): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
-9. ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
-10. ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
-11. ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
-12. ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jess Hung
-13. ["stirring in the stillness of the night"](https://www.youtube.com/watch?v=YmTv8Euj2QE): modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
-14. ["asymmetry"](https://youtu.be/4njxtqCFg0E): ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
-15. ["i'll see you again"](https://youtu.be/LoWQrUFf5ic): ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
-16. ["core memories/company piece 92"](https://youtu.be/iDgpb91XRRU?t=71), modern large-group dance, performed in *metamorphosis* by HRMDC, fall 2022, co-choreographed with Mira Becker
-17. ["taking the power"](https://youtu.be/3bOxnkYUOc8): ballet-based modern solo, performed in *translations* by HRMDC, spring 2022
-18. ["company piece 91 (?)"](https://youtu.be/sTNk7T0o1LM?t=114): jazz-based modern large-group dance, performed in *translations* by HRMDC, spring 2022, with small-group and solo snippets choreographed by other company members
-19. ["simple things"](https://youtu.be/kNDx0T4nOg4): ballet-based modern quartet, performed in *archive* by HRMDC, fall 2021
-20. ["dreaming"](https://youtu.be/A-aJ6iEbT0c): ballet-based modern solo, performed in *daybreak* by HRMDC, spring 2021
-21. ["f l y i n g"](https://youtu.be/L-HuWxzmegI): ballet-based modern duet, performed in *surreal* by HRMDC, fall 2020, co-choreographed with Veronica Tang
-22. "the flow of time": modern small-group work-in-progress (cancelled because of COVID), planned for performance in *ca\dence* by HRMDC, spring 2020
-23. ["Hungarian Dance No. 4"](https://www.youtube.com/watch?v=7lyeEeou5t8): Hungarian character-based solo, performed in *Dancing Around the Clock* by Los Altos High School Advanced Jazz Dance, spring 2019
-24. ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
+1. ["Together: A Fusion of Ballet and Chinese Dance"](https://youtu.be/2VKc9mu46pE): ballet & Chinese dance solo, performed in Mid-Autumn Festival by by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
+2. ["Symphony"](https://www.youtube.com/live/b0c_nARdjsw?si=GVOoAfSwCVMrG1yR&t=5100): jazz group dance, performed in _[DS: Rogue](https://drive.google.com/file/d/12ooD3hNsNSUQBc2vSpkOcFEd2MWsPrvB/view)_, spring 2025
+3. ["Where Do I Start"](https://www.youtube.com/live/YIEUx6m92_g?si=EPhVeNbuTPH1V2bJ&t=2843): ballet small-group dance, performed in [_Rêve_](https://www.youtube.com/playlist?list=PL7poMq1XiKozWNq45DqPBBHfP5hnWnNQH) by En Pointe, spring 2025
+4. ["siegfried"](https://youtu.be/bZP2kzF59FM): ballet solo, performed in [CMU Spring Carnival](https://www.springcarnival.org/) Dance Show, spring 2025
+5. ["Habanera"](https://www.dropbox.com/scl/fi/2f14vq5gvyze3ge206mh2/Habanera?rlkey=yz2qqyfrqkvfja6subgd8zbr2&st=qcti225d&dl=0): ballet-based Spanish character solo, performed in [Tartans Got Talent](https://static.myqrcode.mobi/user-media-prod/Tartan's_Got_Talent_2025_-_Hollywood_Actual_ddd52702_w0l020), spring 2025
+6. ["don't let go"](https://youtu.be/FhPDG3mAfu8): contemporary/lyrical solo, performed in [National Choreography Month Pittsburgh](https://www.nachmo.org/pittsburgh-pa), winter 2025
+7. ["Five More Minutes"](https://www.youtube.com/live/YaI08NTVJHU?si=y467xJ2uYY1oHFm1&t=2356): contemporary group dance, performed in _[DS: Ember](https://drive.google.com/file/d/1-y4QAr74NoPEGePdh7S9c02RYwPGyGQY/view)_, fall 2024
+8. ["Chinese Tea"](https://youtu.be/6hTgsJbwa4M?si=o4GDRNTPc_gg56QM&t=1710): pointe duet, performed in En Pointe's second annual _Nutcracker_, fall 2024, co-choreographed with Olivia McCracken
+9. ["Adagio"](https://www.youtube.com/live/jMzcVJZll1Q?si=CEDAmte1lB67zofP&t=1127): contemporary ballet small-group dance, performed in _Prelude_ by En Pointe, spring 2024
+10. ["full bloom: a folk fusion"](https://drive.google.com/file/d/1FpRFhzFLUx9umsm6Awejm2AYPm0V0qhl/view?usp=sharing): mixed European character dance solo, performed in [SCS Day Talent Show](https://www.cs.cmu.edu/~./scsday) by CMU, winter 2024
+11. ["Mazurka"](https://www.youtube.com/watch?v=Xj_NjSlajLk&t=8196s): mixed European character dance solo, performed in ARTS FIRST DanceFest by Harvard Office for the Arts (OFA), spring 2023
+12. ["shapeshifting"](https://youtu.be/JkahZI0AGjg): ballet-based modern trio, performed in *[intervals]* by Harvard-Radcliffe Modern Dance Company (HRMDC), spring 2023
+13. ["The Interval Closes / Company Piece (93)"](https://youtu.be/__2T7MNWGi4?t=70): modern large-group dance, performed in *[intervals]* by HRMDC, spring 2023, co-choreographed with Mira Becker & Jess Hung
+14. ["stirring in the stillness of the night"](https://www.youtube.com/watch?v=YmTv8Euj2QE): modern/lyrical solo, guest-performed in *Vignettes* by Harvard Ballroom Dance Team, winter 2023
+15. ["asymmetry"](https://youtu.be/4njxtqCFg0E): ballet-based modern solo, performed in *metamorphosis* by HRMDC, fall 2022
+16. ["i'll see you again"](https://youtu.be/LoWQrUFf5ic): ballet-based modern trio, performed in *metamorphosis* by HRMDC, fall 2022
+17. ["core memories/company piece 92"](https://youtu.be/iDgpb91XRRU?t=71), modern large-group dance, performed in *metamorphosis* by HRMDC, fall 2022, co-choreographed with Mira Becker
+18. ["taking the power"](https://youtu.be/3bOxnkYUOc8): ballet-based modern solo, performed in *translations* by HRMDC, spring 2022
+19. ["company piece 91 (?)"](https://youtu.be/sTNk7T0o1LM?t=114): jazz-based modern large-group dance, performed in *translations* by HRMDC, spring 2022, with small-group and solo snippets choreographed by other company members
+20. ["simple things"](https://youtu.be/kNDx0T4nOg4): ballet-based modern quartet, performed in *archive* by HRMDC, fall 2021
+21. ["dreaming"](https://youtu.be/A-aJ6iEbT0c): ballet-based modern solo, performed in *daybreak* by HRMDC, spring 2021
+22. ["f l y i n g"](https://youtu.be/L-HuWxzmegI): ballet-based modern duet, performed in *surreal* by HRMDC, fall 2020, co-choreographed with Veronica Tang
+23. "the flow of time": modern small-group work-in-progress (cancelled because of COVID), planned for performance in *ca\dence* by HRMDC, spring 2020
+24. ["Hungarian Dance No. 4"](https://www.youtube.com/watch?v=7lyeEeou5t8): Hungarian character-based solo, performed in *Dancing Around the Clock* by Los Altos High School Advanced Jazz Dance, spring 2019
+25. ["Czardas"](https://youtu.be/mPyB5VLXvCo): Hungarian character-based solo, performed in *City of Dance* by Los Altos High School Advanced Jazz Dance, spring 2018
 
 ### Dance (choreographed by other people)
 #### Carnegie Mellon University/Pittsburgh Community Events
