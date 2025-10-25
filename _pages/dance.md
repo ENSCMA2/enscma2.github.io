@@ -98,56 +98,56 @@ profile:
 24. ["baby C'Est La Vie!"](https://www.youtube.com/watch?v=kO67z9RwOjU&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=28&ab_channel=cmuTV): jazz funk group dance, performed in _DS: RIFT_, fall 2023
 
 #### Harvard University
-24. ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
-25. Margot (1 of 6 Grisettes): jazz small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
-26. Pontevedran Dancer: ballet small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
-27. ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
-28. ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
-29. ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
-30. ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
-31. ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
+25. ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
+26. Margot (1 of 6 Grisettes): jazz small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+27. Pontevedran Dancer: ballet small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+28. ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
+29. ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
+30. ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
+31. ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
+32. ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
 
 #### Bayer Ballet Academy
 
 ##### Solo roles:
-32. "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
-33. "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
-34. "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
-35. Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
+33. "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
+34. "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
+35. "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
+36. Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
 
 ##### Pointe small-group roles:
-36. "Nymphs" from *Walpurgisnacht*: performed in _Springtime Novelettes_, spring 2016
-37. "Little Sheep": performed in _A Winter Fairy Tale_, fall 2012)
-38. "Coral" from _The Little Humpbacked Horse_: performed in _Springtime Novelettes_, spring 2012
+37. "Nymphs" from *Walpurgisnacht*: performed in _Springtime Novelettes_, spring 2016
+38. "Little Sheep": performed in _A Winter Fairy Tale_, fall 2012)
+39. "Coral" from _The Little Humpbacked Horse_: performed in _Springtime Novelettes_, spring 2012
 
 ##### Corps de Ballet pointe roles:
-39. "Medora's Friends" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2015
-40. "Icicles": performed in _The Snow Queen_, fall 2014
-41. Wedding Scene from _La Esmeralda_: performed in summer intensive showcase, summer 2014
-42. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2012 & 2013
-43. "Dance of the Snowflakes": performed in _A Winter Fairy Tale_, fall 2012 & 2013
-44. "Le Jardin Animé" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2014
+40. "Medora's Friends" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2015
+41. "Icicles": performed in _The Snow Queen_, fall 2014
+42. Wedding Scene from _La Esmeralda_: performed in summer intensive showcase, summer 2014
+43. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2012 & 2013
+44. "Dance of the Snowflakes": performed in _A Winter Fairy Tale_, fall 2012 & 2013
+45. "Le Jardin Animé" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2014
 
 ##### Corps de Ballet roles:
-45. "Trolls": performed in _The Snow Queen_, fall 2014
-46. "Robbers": performed in _The Snow Queen_, fall 2014
-47. "Hershey Kisses": performed in _A Winter Fairy Tale_, fall 2011
-48. "Chinese Tea": performed in _A Winter Fairy Tale_, fall 2011
-49. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2011
+46. "Trolls": performed in _The Snow Queen_, fall 2014
+47. "Robbers": performed in _The Snow Queen_, fall 2014
+48. "Hershey Kisses": performed in _A Winter Fairy Tale_, fall 2011
+49. "Chinese Tea": performed in _A Winter Fairy Tale_, fall 2011
+50. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2011
 
 ##### Character group dances in _Springtime Novelettes_ and summer intensive showcases:
-50. "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016)
-51. "Seguidilla" from _Don Quixote_ (Spanish, spring 2015)
-52. "Mazurka" from _Swan Lake_ (Polish, spring 2014)
-53. "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala)
-54. "Tarantella" from _Napoli_ (Italian, summer 2012)
-55. "Russian Dance" (Russian, spring 2012)
-56. "Tarantella Napoletana" (Italian, spring 2012)
+51. "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016)
+52. "Seguidilla" from _Don Quixote_ (Spanish, spring 2015)
+53. "Mazurka" from _Swan Lake_ (Polish, spring 2014)
+54. "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala)
+55. "Tarantella" from _Napoli_ (Italian, summer 2012)
+56. "Russian Dance" (Russian, spring 2012)
+57. "Tarantella Napoletana" (Italian, spring 2012)
 
 #### Pacific Ballet Academy (ballet group roles)
-57. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
-58. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
-59. "Soldier": performed in _The Nutcracker_, fall 2009
+58. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
+59. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
+60. "Soldier": performed in _The Nutcracker_, fall 2009
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
