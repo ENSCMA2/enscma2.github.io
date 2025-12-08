@@ -17,7 +17,7 @@ profile:
 - Dance styles
   - Advanced: ballet (+ pointe), contemporary, lyrical, character (Russian, Moldavian, Hungarian, Polish, Italian, Spanish), jazz
   - Intermediate: modern, musical theater, Chinese dance
-  - Beginner: tap, heels, hip hop
+  - Beginner: tap, heels, hip hop, acrobatics, tricking
 - directing and/or choreographing performances that reconstruct (or deconstruct (?)) fairytales/sci-fi or tell stories about *broader* things like health (mental & physical), neurodivergence, and social/cultural/gendered experiences
 - lighting design/programming/board operations, technical production, stage management, data/operations/finance management, publicity, front-of-house, sound design/engineering/board operations, video/media design/engineering/operation
 - teaching dance (the styles where I am "advanced")
@@ -26,9 +26,10 @@ profile:
 ## Background
 - 2023 - present: ballet with [En Pointe](https://www.contrib.andrew.cmu.edu/org/dancer/enpointe.html)
 - 2023 - present: contemporary, jazz, & jazz funk with [Dancers' Symposium](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) (DS)
+- 2025 - present: tricking with [CMU Tricking Club](https://tartanconnect.cmu.edu/cmtc/home/)
 - 2024 - present: Chinese dance with [Awareness of Roots in Chinese Culture Chinese Dance Club (ACDC)](https://cmuacdc.carrd.co/)
 - 2024 - present: ballet, contemporary, jazz, & character with [Pittsburgh Ballet Theatre School](https://pbt.org/pbts/community-division/dancefitness/)
-- 2025 - present: ballet, contemporary, jazz, modern, tap, heels, hip hop with [fireWALL Dance Theater](firewalldance.com)
+- 2025 - present: ballet, contemporary, jazz, modern, tap, heels, & hip hop with [fireWALL Dance Theater](firewalldance.com)
 - 2024: ballet & tap with [Bodiography](https://new.bodiography.com/)
 - 2019 - 2023: modern & contemporary with [Harvard-Radcliffe Modern Dance Company](http://www.hrmdc.org/)
 - 2022: ballet with [VAM Studios](https://vamstudios.net/)
@@ -73,125 +74,130 @@ profile:
 
 ### Dance (choreographed by other people)
 #### Carnegie Mellon University/Pittsburgh Community Events
-1. ["Snow Queen"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506): pointe solo role, performed in _The NOTcracker_ by En Pointe, fall 2025
-2. ["Marzipan"](https://youtu.be/AG163WRDUCc?si=DxJo2BAauJPxWnX2&t=1630): pointe duet, performed in _The NOTcracker_ by En Pointe, fall 2025
-3. ["Fairy of the Golden Vine" from _Sleeping Beauty_](https://youtu.be/AG163WRDUCc?si=sUyX5zsWyQ4mSR7b&t=1877): pointe duet, performed in _The NOTcracker_ by En Pointe, fall 2025
-4. ["Cherry Countess" from _Cipollino_](https://youtu.be/AG163WRDUCc?si=b-miUiYczwkGUfzB&t=2462): pointe duet, _The NOTcracker_ by En Pointe, fall 2025
-5. ["Waltz of the Hours" from _Coppelia_](https://www.youtube.com/watch?v=wX42TFbWitM): pointe group dance, performed in Pittsburgh Ballet Theatre Dance & Fitness Summer Intensive, spring 2025
-6. ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451): pointe group dance in _DS: Rogue_, spring 2025
-7. ["The door"](https://www.youtube.com/live/b0c_nARdjsw?si=b95AEENfK9Rglozg&t=1908): contemporary/jazz group dance in _DS: Rogue_, spring 2025
-8. ["Sweet Disposition"](https://www.youtube.com/live/b0c_nARdjsw?si=rO3xQs7-8uKgP3XX&t=3326): contemporary group dance in _DS: Rogue_, spring 2025
-9. ["Dulcinea" from the _Don Quixote_ Dream Scene](https://youtu.be/1uYVpSNEEFQ?si=Wdq7iwcOY-x7gr4e&t=134): pointe solo role in _Rêve_ by En Pointe, spring 2025
-10. ["Serenade for Strings"](https://youtu.be/1uYVpSNEEFQ?si=ArmIWvGhqplKNuqq&t=1409): pointe small-group role in _Rêve_ by En Pointe, spring 2025
-11. ["Training For The Sword"](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
-12. [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/), winter 2025
-13. ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), pointe group dance in _DS: Ember_, fall 2024
-14. ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
-15. ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
-16. ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
-17. ["Rain on Me"](https://www.youtube.com/watch?v=k5TeDfMyFRg): jazz group dance in _DS: Reverie_, spring 2024
-18. ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57): contemporary ballet group role in _Prelude_ by En Pointe, spring 2024
-19. ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964): contemporary ballet group role in _Prelude_ by En Pointe, spring 2024
-20. ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
-21. "to love's end": traditional Chinese group dance, performed in _The Legend of Nezha_ by CMU ARCC
-22. "Flying": contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
-23. ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349): ballet group role in _The Nutcracker_ by En Pointe, fall 2023
-24. ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822): character duet in _The Nutcracker_ by En Pointe, fall 2023
-25. ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): pointe small-group role in _The Nutcracker_ by En Pointe, fall 2023
-26. ["Narcissist"](https://www.youtube.com/watch?v=kFLCnlM3gTs&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=6&ab_channel=cmuTV): contemporary group dance, performed in _DS: RIFT_ by DS, fall 2023
-27. ["Pas Des Trois Des Odalisques" from _Le Corsaire_](https://www.youtube.com/watch?v=dyQmTcMj1ms&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=2&ab_channel=cmuTV): ballet group dance, performed in _DS: RIFT_, fall 2023
-28. ["baby C'Est La Vie!"](https://www.youtube.com/watch?v=kO67z9RwOjU&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=28&ab_channel=cmuTV): jazz funk group dance, performed in _DS: RIFT_, fall 2023
+1. ["Garland Waltz" from _Sleeping Beauty_](https://youtu.be/ocj6OzXQOac): pointe group dance, performed in _[DS: Echo](https://drive.google.com/file/d/1NcPBGs8j3xb530whvm6rDT0eN1PCxIWl/view)_, fall 2025
+2. ["Whale Fall"](https://youtu.be/oK1eQDBbowA): contemporary group dance, performed in _[DS: Echo](https://drive.google.com/file/d/1NcPBGs8j3xb530whvm6rDT0eN1PCxIWl/view)_, fall 2025
+3. ["Pa(TRICK) Zero: Zombie Apocalypse"](https://youtu.be/LrQxpG0aV3c): tricking group dance, performed in _[DS: Echo](https://drive.google.com/file/d/1NcPBGs8j3xb530whvm6rDT0eN1PCxIWl/view)_, fall 2025
+4. ["Snow Queen"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506): pointe solo role, performed in _The NOTcracker_ by En Pointe, fall 2025
+5. ["Marzipan"](https://youtu.be/AG163WRDUCc?si=DxJo2BAauJPxWnX2&t=1630): pointe duet, performed in _The NOTcracker_ by En Pointe, fall 2025
+6. ["Fairy of the Golden Vine" from _Sleeping Beauty_](https://youtu.be/AG163WRDUCc?si=sUyX5zsWyQ4mSR7b&t=1877): pointe duet, performed in _The NOTcracker_ by En Pointe, fall 2025
+7. ["Cherry Countess" from _Cipollino_](https://youtu.be/AG163WRDUCc?si=b-miUiYczwkGUfzB&t=2462): pointe duet, _The NOTcracker_ by En Pointe, fall 2025
+8. ["Waltz of the Hours" from _Coppelia_](https://www.youtube.com/watch?v=wX42TFbWitM): pointe group dance, performed in Pittsburgh Ballet Theatre Dance & Fitness Summer Intensive, spring 2025
+9. ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451): pointe group dance in _DS: Rogue_, spring 2025
+10. ["The door"](https://www.youtube.com/live/b0c_nARdjsw?si=b95AEENfK9Rglozg&t=1908): contemporary/jazz group dance in _DS: Rogue_, spring 2025
+11. ["Sweet Disposition"](https://www.youtube.com/live/b0c_nARdjsw?si=rO3xQs7-8uKgP3XX&t=3326): contemporary group dance in _DS: Rogue_, spring 2025
+12. ["Dulcinea" from the _Don Quixote_ Dream Scene](https://youtu.be/1uYVpSNEEFQ?si=Wdq7iwcOY-x7gr4e&t=134): pointe solo role in _Rêve_ by En Pointe, spring 2025
+13. ["Serenade for Strings"](https://youtu.be/1uYVpSNEEFQ?si=ArmIWvGhqplKNuqq&t=1409): pointe small-group role in _Rêve_ by En Pointe, spring 2025
+14. ["Training For The Sword"](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
+15. [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/), winter 2025
+16. ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), pointe group dance in _DS: Ember_, fall 2024
+17. ["Worn Thin"](https://www.youtube.com/live/YaI08NTVJHU?si=Wlc_2dVWZeq4iF6I&t=7910): contemporary group dance in _DS: Ember_, fall 2024
+18. ["Uncle Drosselmeyer"](https://youtu.be/6hTgsJbwa4M?si=DUTdK2Zi3-NU7nn9&t=240): theatricalized ballet solo role in En Pointe's second annual _Nutcracker_, fall 2024
+19. ["The Other Side"](https://youtu.be/s2S_66yR_vs): traditional Chinese group dance, performed in _Fantasy_ by [CMU Taiwanese Student Association](https://www.instagram.com/cmu_tsa/), fall 2024
+20. ["Rain on Me"](https://www.youtube.com/watch?v=k5TeDfMyFRg): jazz group dance in _DS: Reverie_, spring 2024
+21. ["Glass Pieces"](https://www.youtube.com/live/jMzcVJZll1Q?si=OyTdLI-ZBjgoanLZ&t=57): contemporary ballet group role in _Prelude_ by En Pointe, spring 2024
+22. ["Disappear"](https://www.youtube.com/live/jMzcVJZll1Q?si=EMz_nYW6LXkW-kdz&t=1964): contemporary ballet group role in _Prelude_ by En Pointe, spring 2024
+23. ["Incanto"](https://www.youtube.com/live/jMzcVJZll1Q?si=6d8QD31a-n5bNGdn&t=2719): contemporary ballet & pointe group roles in _Prelude_ by En Pointe, spring 2024
+24. "to love's end": traditional Chinese group dance, performed in _The Legend of Nezha_ by CMU ARCC
+25. "Flying": contemporary group dance, performed in _[Liminal](https://2024.lunargala.org/)_ by [Lunar Gala](https://linktr.ee/cmulunargala), spring 2024
+26. ["Dance of the Snowflakes"](https://www.youtube.com/live/ZNyeVo7x98w?si=iMa1_pMlPYF7NH-R&t=2349): ballet group role in _The Nutcracker_ by En Pointe, fall 2023
+27. ["Russian Trepak"](https://www.youtube.com/live/ZNyeVo7x98w?si=ovl-hg1Vi2gXj8TX&t=2822): character duet in _The Nutcracker_ by En Pointe, fall 2023
+28. ["Waltz of the Flowers"](https://www.youtube.com/live/ZNyeVo7x98w?si=coniKGFMaG8s-GP4&t=3349): pointe small-group role in _The Nutcracker_ by En Pointe, fall 2023
+29. ["Narcissist"](https://www.youtube.com/watch?v=kFLCnlM3gTs&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=6&ab_channel=cmuTV): contemporary group dance, performed in _DS: RIFT_ by DS, fall 2023
+30. ["Pas Des Trois Des Odalisques" from _Le Corsaire_](https://www.youtube.com/watch?v=dyQmTcMj1ms&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=2&ab_channel=cmuTV): ballet group dance, performed in _DS: RIFT_, fall 2023
+31. ["baby C'Est La Vie!"](https://www.youtube.com/watch?v=kO67z9RwOjU&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=28&ab_channel=cmuTV): jazz funk group dance, performed in _DS: RIFT_, fall 2023
 
 #### Harvard University
-29. ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
-30. Margot (1 of 6 Grisettes): jazz small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
-31. Pontevedran Dancer: ballet small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
-32. ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
-33. ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
-34. ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
-35. ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
-36. ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
+32. ["learn to let go"](https://youtu.be/1xZG1kOFF8Y): modern quartet, performed in *[intervals]* by HRMDC, spring 2023
+33. Margot (1 of 6 Grisettes): jazz small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+34. Pontevedran Dancer: ballet small-group dance + singing role, performed in *The Merry Widow* by [Harvard College Opera](http://harvardcollegeopera.com/merry-widow-2023), winter 2023
+35. ["hast thou slain the jabberwock?"](https://www.youtube.com/watch?v=XApYZM49wXg&t=7867s): ballet-based modern trio, performed in ARTS FIRST DanceFest by OFA, spring 2022
+36. ["my mother told me"](https://youtu.be/pqKEJmMpk1g): modern small-group dance, performed in *archive* by HRMDC, fall 2021
+37. ["this is...45"](https://youtu.be/5M0kj53W4m8): modern large-group dance, performed in *archive* by HRMDC, fall 2021
+38. ["bird set free"](https://youtu.be/eCAmXM2Eor4): modern small-group dance, performed in *an escape* by HRMDC, fall 2019
+39. ["The Ones Who Had Loved Her the Most"](https://youtu.be/_vBMStuwar8): modern trio, performed in *an escape* by HRMDC, fall 2019
 
 #### Bayer Ballet Academy
 
 ##### Solo roles:
-37. "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
-38. "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
-39. "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
-40. Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
+40. "Snow Queen": ballet solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2015
+41. "Garden Enchantress": pointe solo role, performed in *The Snow Queen* by Bayer Ballet, fall 2014 & 2015
+42. "Bells" from *Fountain of Bakhchisarai*: lead role in pointe trio, performed in summer intensive showcase by Bayer Ballet, summer 2015
+43. Lead Chinese: pointe role, performed in *Winter Fairy Tale* by Bayer Ballet, fall 2013
 
 ##### Pointe small-group roles:
-41. "Nymphs" from *Walpurgisnacht*: performed in _Springtime Novelettes_, spring 2016
-42. "Little Sheep": performed in _A Winter Fairy Tale_, fall 2012)
-43. "Coral" from _The Little Humpbacked Horse_: performed in _Springtime Novelettes_, spring 2012
+44. "Nymphs" from *Walpurgisnacht*: performed in _Springtime Novelettes_, spring 2016
+45. "Little Sheep": performed in _A Winter Fairy Tale_, fall 2012)
+46. "Coral" from _The Little Humpbacked Horse_: performed in _Springtime Novelettes_, spring 2012
 
 ##### Corps de Ballet pointe roles:
-44. "Medora's Friends" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2015
-45. "Icicles": performed in _The Snow Queen_, fall 2014
-46. Wedding Scene from _La Esmeralda_: performed in summer intensive showcase, summer 2014
-47. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2012 & 2013
-48. "Dance of the Snowflakes": performed in _A Winter Fairy Tale_, fall 2012 & 2013
-49. "Le Jardin Animé" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2014
+47. "Medora's Friends" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2015
+48. "Icicles": performed in _The Snow Queen_, fall 2014
+49. Wedding Scene from _La Esmeralda_: performed in summer intensive showcase, summer 2014
+50. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2012 & 2013
+51. "Dance of the Snowflakes": performed in _A Winter Fairy Tale_, fall 2012 & 2013
+52. "Le Jardin Animé" from _Le Corsaire_: performed in _Springtime Novelettes_, spring 2014
 
 ##### Corps de Ballet roles:
-50. "Trolls": performed in _The Snow Queen_, fall 2014
-51. "Robbers": performed in _The Snow Queen_, fall 2014
-52. "Hershey Kisses": performed in _A Winter Fairy Tale_, fall 2011
-53. "Chinese Tea": performed in _A Winter Fairy Tale_, fall 2011
-54. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2011
+53. "Trolls": performed in _The Snow Queen_, fall 2014
+54. "Robbers": performed in _The Snow Queen_, fall 2014
+55. "Hershey Kisses": performed in _A Winter Fairy Tale_, fall 2011
+56. "Chinese Tea": performed in _A Winter Fairy Tale_, fall 2011
+57. "Waltz of the Flowers": performed in _A Winter Fairy Tale_, fall 2011
 
 ##### Character group dances in _Springtime Novelettes_ and summer intensive showcases:
-55. "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016)
-56. "Seguidilla" from _Don Quixote_ (Spanish, spring 2015)
-57. "Mazurka" from _Swan Lake_ (Polish, spring 2014)
-58. "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala)
-59. "Tarantella" from _Napoli_ (Italian, summer 2012)
-60. "Russian Dance" (Russian, spring 2012)
-61. "Tarantella Napoletana" (Italian, spring 2012)
+58. "Neapolitan Dance" from _Swan Lake_ (Italian, spring 2016)
+59. "Seguidilla" from _Don Quixote_ (Spanish, spring 2015)
+60. "Mazurka" from _Swan Lake_ (Polish, spring 2014)
+61. "Moldavian Dance" (Moldavian, spring 2012 & 2013, also performed in International School of the Peninsula Gala)
+62. "Tarantella" from _Napoli_ (Italian, summer 2012)
+63. "Russian Dance" (Russian, spring 2012)
+64. "Tarantella Napoletana" (Italian, spring 2012)
 
 #### Pacific Ballet Academy (ballet group roles)
-62. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
-63. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
-64. "Soldier": performed in _The Nutcracker_, fall 2009
+65. "Danse Espagnole" from _Swan Lake_: performed in spring showcase, spring 2011
+66. "Party Scene Boy": performed in _The Nutcracker_, fall 2010
+67. "Soldier": performed in _The Nutcracker_, fall 2009
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
-1. Lighting Designer for [_The NOTcracker_](https://www.youtube.com/watch?v=BLpw4iGJn6c) by En Pointe, fall 2025
-2. Lighting Designer for ["Symphony"](https://youtu.be/LgZT_e4BX8o?si=MLWgOQqGNKAihLZl&t=3711) in _DS: Rogue_, spring 2025
-3. Lighting Designer for [_Rêve_](https://youtube.com/live/YIEUx6m92_g) by En Pointe, spring 2025
-4. Spotlight Operator for "Chinese New Year Extravaganza" by [CMU Chinese Students & Scholars Association](https://tartanconnect.cmu.edu/cssa/home/), winter 2025
-5. Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
-6. Lighting Designer & Co-Board-Operator for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
-7. Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
-8. Lighting Designer for CMU First-Year Showcase, summer 2024
-9. Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
-10. Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
-11. Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
-12. Assistant Lighting Designer & Board Operator for Almost Midnight A Cappella by [CMU Treblemakers](http://cmutreblemakers.com/), spring 2024
-13. Lighting Designer for "Rain on Me" and "Incanto" in _DS: Reverie_, spring 2024
-14. Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
-15. Lighting Designer & Board Operator for _[Meet Cute Loop](https://www.youtube.com/watch?v=4IjRwXOVSrc&ab_channel=cmufilmmakers)_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
-16. Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
-17. Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
-18. Lighting Designer for [Train Show](https://www.youtube.com/watch?v=1FpMwGF1uqA&ab_channel=Scotch%27n%27Soda) by [New Works Coffeehouse](https://newworkscoffee.wixsite.com/theatre), winter 2024
-19. Lighting Designer for CMU's first-ever [mini-Nutcracker](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
-20. Lighting Designer for ["XO"](https://www.youtube.com/watch?v=5hPy26zrGxc&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=24&ab_channel=cmuTV) in _DS: RIFT_, fall 2023
-21. Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023 ([sample](https://youtu.be/nfUNlmmZ1N8))
-22. Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
-23. Lighting Designer for [*metamorphosis*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxOX-O7w0K04NZEzsVPI1a6) by HRMDC, fall 2022 ([sample](https://youtu.be/Lb8MAVKG4l8))
-24. Lighting Board Operator for ["Un Viaje Por El Mundo"](https://www.canva.com/design/DAE_YXMXEKA/WzE3secx6Sh-E47Q8JQe4w/view?utm_content=DAE_YXMXEKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) by [Harvard Candela Latin Dance Troupe](https://www.instagram.com/harvardcandela/), spring 2022
+1. Lighting Designer for [_Mixed Rhythms_](https://www.youtube.com/live/DI9NdQ2jR-Y?si=cOKOPm_uxilTIbhb&t=9577) in _DS: Echo_, fall 2025
+2. Lighting Designer for [_The NOTcracker_](https://www.youtube.com/watch?v=BLpw4iGJn6c) by En Pointe, fall 2025
+3. Lighting Designer for ["Symphony"](https://youtu.be/LgZT_e4BX8o?si=MLWgOQqGNKAihLZl&t=3711) in _DS: Rogue_, spring 2025
+4. Lighting Designer for [_Rêve_](https://youtube.com/live/YIEUx6m92_g) by En Pointe, spring 2025
+5. Spotlight Operator for "Chinese New Year Extravaganza" by [CMU Chinese Students & Scholars Association](https://tartanconnect.cmu.edu/cssa/home/), winter 2025
+6. Lighting Designer for "Five More Minutes" and "Worn Thin" in _[DS: Ember](https://www.youtube.com/live/YaI08NTVJHU)_, fall 2024
+7. Lighting Designer & Co-Board-Operator for [*Omni*](https://fb.watch/w388u-g7Bm/) by Soulstylz, fall 2024
+8. Lighting Designer for CMU's second-ever, slightly-less-mini-than-its-first-ever [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
+9. Lighting Designer for CMU First-Year Showcase, summer 2024
+10. Lighting Board Operator for [The Mentalist](https://www.craigkarges.com/) magic show at CMU First-Year Orientation, summer 2024
+11. Lighting Designer & Board Operator for CMU [Master of Integrated Innovation for Products & Services](https://www.cmu.edu/iii/on-campus-degrees/miips/index.html) & [Electrical & Computer Engineering PhD](https://www.ece.cmu.edu/academics/phd-ece/index.html) graduation ceremonies, spring 2024
+12. Lighting Designer & Board Operator for inaugural [CMU LLM Agent Workshop](https://cmu-agent-workshop.github.io/), spring 2024
+13. Assistant Lighting Designer & Board Operator for Almost Midnight A Cappella by [CMU Treblemakers](http://cmutreblemakers.com/), spring 2024
+14. Lighting Designer for "Rain on Me" and "Incanto" in _DS: Reverie_, spring 2024
+15. Lighting Designer for _[Prelude](https://www.youtube.com/live/jMzcVJZll1Q?si=qXCeIRnWHH-VgEhR)_ by En Pointe, spring 2024
+16. Lighting Designer & Board Operator for _[Meet Cute Loop](https://www.youtube.com/watch?v=4IjRwXOVSrc&ab_channel=cmufilmmakers)_ by [CMU Filmmakers](https://www.instagram.com/cmufilmmakers/), spring 2024
+17. Lighting Designer for _Liminal_ by Lunar Gala, spring 2024
+18. Lighting Designer & Board Operator for [CMU Independent Musicians' Organization](https://www.instagram.com/cmuimo/) Concert, winter 2024
+19. Lighting Designer for [Train Show](https://www.youtube.com/watch?v=1FpMwGF1uqA&ab_channel=Scotch%27n%27Soda) by [New Works Coffeehouse](https://newworkscoffee.wixsite.com/theatre), winter 2024
+20. Lighting Designer for CMU's first-ever [mini-Nutcracker](https://www.youtube.com/live/ZNyeVo7x98w?si=bEbyajnV27zDf_vn) by En Pointe, fall 2023
+21. Lighting Designer for ["XO"](https://www.youtube.com/watch?v=5hPy26zrGxc&list=PLCSO71HhvyTxrEfHwA-9TsuyTPfL_ESJ7&index=24&ab_channel=cmuTV) in _DS: RIFT_, fall 2023
+22. Lighting Designer for [*[intervals]*](https://www.youtube.com/playlist?list=PLIQE9U4oMexyRj7KFfBPrrNssZwK5dtcf) by HRMDC, spring 2023 ([sample](https://youtu.be/nfUNlmmZ1N8))
+23. Lighting Board Operator for [*Falling Together*](https://tdm.fas.harvard.edu/event/tdm-thesis-production-falling-together-laura-coe) by Laura Coe, spring 2023
+24. Lighting Designer for [*metamorphosis*](https://www.youtube.com/playlist?list=PLIQE9U4oMexxOX-O7w0K04NZEzsVPI1a6) by HRMDC, fall 2022 ([sample](https://youtu.be/Lb8MAVKG4l8))
+25. Lighting Board Operator for ["Un Viaje Por El Mundo"](https://www.canva.com/design/DAE_YXMXEKA/WzE3secx6Sh-E47Q8JQe4w/view?utm_content=DAE_YXMXEKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) by [Harvard Candela Latin Dance Troupe](https://www.instagram.com/harvardcandela/), spring 2022
 
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
-1. Répétiteur for ["Waltz of the Snowflakes"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506), performed in _The NOTcracker_, fall 2025
-2. Co-Répétiteur for ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451), performed in _DS: Rogue_, spring 2025
-3. Co-Répétiteur for ["Dream Scene" from _Don Quixote_](https://youtu.be/1uYVpSNEEFQ?si=58ebKJpmlUk_Ul9z&t=24), performed in _Rêve_, spring 2025
-4. Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
-5. Co-Répétiteur for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in _DS: Ember_, fall 2024
-6. Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
-7. Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
-8. Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
-9. Director for Bilingual Bridges benefit concert, spring 2018
+1. Co-Répétiteur for ["Garland Waltz" from _Sleeping Beauty_](https://youtu.be/ocj6OzXQOac), performed in _DS: Echo_, fall 2025
+2. Répétiteur for ["Waltz of the Snowflakes"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506), performed in _The NOTcracker_, fall 2025
+3. Co-Répétiteur for ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451), performed in _DS: Rogue_, spring 2025
+4. Co-Répétiteur for ["Dream Scene" from _Don Quixote_](https://youtu.be/1uYVpSNEEFQ?si=58ebKJpmlUk_Ul9z&t=24), performed in _Rêve_, spring 2025
+5. Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
+6. Co-Répétiteur for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in _DS: Ember_, fall 2024
+7. Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
+8. Co-Director for [*metamorphosis*](https://drive.google.com/file/d/1VRDelJwWAd5RDnAGvpN9HCISS4DBW4Q8/view), fall 2022
+9. Co-Director for [*translations*](https://hrdcapp.s3.amazonaws.com/media/archive/2022/Spring/insert-here/pub/translations_program.pdf), spring 2022
+10. Director for Bilingual Bridges benefit concert, spring 2018
 
 ### Producing
 Skills: talking to choreographers, group leaders, tech staff, & external vendors to collect equipment needs & stage diagrams, setting up & striking basic sound systems (e.g. Mackies with Honey, some Shure SM58 wireless mic + elementary LS9 setups), creating show orders & equipment lists, recruiting & training runcrew, leading technical & choreographic research, facilitating production, budget & design meetings, giving feedback to designers, creating budgets, writing grants, organizing donation matches, leading load-ins & strikes.
