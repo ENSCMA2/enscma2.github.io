@@ -50,15 +50,15 @@ horizontal: false
 - Organizing NLP-related events
   - Co-organized (mainly tech support) [CMU Agent Workshop](https://cmu-agent-workshop.github.io/)
 - Reviewing for conferences, workshops, project courses
+  - Association for Computational Linguistics Rolling Review, February 2025 - present
   - Workshop on NLP for Democracy @ COLM 2025
   - Workshop on Online Abuse & Harms @ ACL 2025
   - Integrating NLP and Psychology to Study Social Interactions @ ICWSM 2025
-  - Association for Computational Linguistics Rolling Review, February 2025 - present
   - Computational Linguistics and Clinical Psychology at NAACL 2025
   - FAccT 2025
   - CHI 2025
   - COLING 2025 (Main & Demo Tracks)
-  - CMU LTI 11785 (Introduction to Deep Learning), fall 2024
+  - CMU LTI 11785 (Introduction to Deep Learning), fall 2024 & 2025
   - NLP for Positive Impact at EMNLP 2024
   - Human-Centered LLMs Workshop at ACL 2024
   - LREC-COLING 2024
