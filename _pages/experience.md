@@ -65,6 +65,7 @@ horizontal: false
   - EACL 2023
   - EMNLP 2022
 - Mentoring
+  - [Preparing Autistic Students for the AI Workforce](https://cmu-variability.github.io/pas4aiworkforce/) Research Mentor
   - CMU SCS Graduate Application Support Program Mentor
   - Harvard WiCS Alumni Mentor
   - (in undergrad) Harvard CS Department Peer Concentration Advisor
