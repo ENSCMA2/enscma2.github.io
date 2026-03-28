@@ -9,6 +9,10 @@ horizontal: false
 ---
 ## Grad School
 
+### Fall 2025
+- 57-211: Movement & Dance III
+- 57-213: Let's dance
+
 ### Spring 2025
 - 11-797: Question Answering
 - 17-756: Computational Social Science: Data Analysis & Research Design
