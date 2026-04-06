@@ -198,7 +198,7 @@ Skills I have so far: creating cues (pre-programmed and live-mixing), magic shee
 ### Directing
 Skills so far: creating show themes, storyboards, & idea docs, acquiring & setting up props & costumes, recruiting photographers, videographers, choreographers, & board members, organizing photoshoots, creating publicity materials, leading board meetings, creating cast lists, teaching technique & repertoire classes, handling (certain) emergencies, managing costume closets.
 1. Co-Répétiteur for ["Suite from _Le Corsaire_"](https://youtu.be/8oPvQ099FOs?si=8SycLynGLaDCLN8W&t=40), performed in _Fête_, spring 2026
-2. Co-Répétiteur for [_Walpurgis Night](https://youtu.be/8oPvQ099FOs?si=l11HisHL0aZHLfYc&t=1634), performed in _Fête_, spring 2026
+2. Co-Répétiteur for [_Walpurgis Night_](https://youtu.be/8oPvQ099FOs?si=l11HisHL0aZHLfYc&t=1634), performed in _Fête_, spring 2026
 3. Co-Director for [_Fête_](https://canva.link/ilqmxff573i2jfy), spring 2026
 4. Co-Répétiteur for ["Garland Waltz" from _Sleeping Beauty_](https://youtu.be/ocj6OzXQOac), performed in _DS: Echo_, fall 2025
 5. Répétiteur for ["Waltz of the Snowflakes"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506), performed in _The NOTcracker_, fall 2025
