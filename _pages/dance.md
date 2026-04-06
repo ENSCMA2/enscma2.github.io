@@ -78,7 +78,7 @@ profile:
 
 ### Dance (choreographed by other people)
 #### Carnegie Mellon University/Pittsburgh Community Events
-1. ["Medora" in Suite from _Le Corsaire_](https://youtu.be/8oPvQ099FOs?si=ZKKPKgjNm7Ys71EL&t=126) ([Entrance](https://youtu.be/8oPvQ099FOs?si=ZKKPKgjNm7Ys71EL&t=126), [Grand Pas Variation](https://youtu.be/8oPvQ099FOs?si=l6iK6QeWl8MBJrqu&t=461), [Jardin Animé](https://youtu.be/8oPvQ099FOs?si=zKbvMunbbf6p-_F4&t=747))]: pointe solo role, performed in _Fête_ by En Pointe, spring 2026
+1. ["Medora" in Suite from _Le Corsaire_](https://youtu.be/8oPvQ099FOs?si=ZKKPKgjNm7Ys71EL&t=126) ([Entrance](https://youtu.be/8oPvQ099FOs?si=ZKKPKgjNm7Ys71EL&t=126), [Grand Pas Variation](https://youtu.be/8oPvQ099FOs?si=l6iK6QeWl8MBJrqu&t=461), [Jardin Animé](https://youtu.be/8oPvQ099FOs?si=zKbvMunbbf6p-_F4&t=747)): pointe solo role, performed in _Fête_ by En Pointe, spring 2026
 2. ["Pan" in _Walpurgis Night_](https://youtu.be/8oPvQ099FOs?si=viocqtRBcwuFbddY&t=1635): pointe solo role with male technique, performed in _Fête_ by En Pointe, spring 2026
 3. ["Danse Espagnole" from _Swan Lake_](https://youtu.be/HVSX3QtQTrI): Spanish character solo, performed in [CMU SCS Day Talent Show](https://www.cs.cmu.edu/~scsday/), winter 2026
 4. ["Garland Waltz" from _Sleeping Beauty_](https://youtu.be/ocj6OzXQOac): pointe group dance, performed in _[DS: Echo](https://drive.google.com/file/d/1NcPBGs8j3xb530whvm6rDT0eN1PCxIWl/view)_, fall 2025
