@@ -10,6 +10,7 @@ horizontal: false
 ---
 
 ## Selected Research Positions
+- **Student Researcher** @**Google** (summer 2026): event extraction stuff
 - **Research Intern** @**Comcast** (summer 2025): recsys stuff
 - **Research Intern** @**Apple** (summer 2024): NLP safety stuff
 - **Research Intern** @**EPFL NLP** (summer 2023): created a benchmark dataset & investigated gender & racial bias + misinformation as a consequence of model weight editing.
