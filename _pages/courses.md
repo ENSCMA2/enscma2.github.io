@@ -9,6 +9,9 @@ horizontal: false
 ---
 ## Grad School
 
+### Spring 2026
+- 05-891: Designing Human-Centered Software
+  
 ### Fall 2025
 - 57-211: Movement & Dance III
 - 57-213: Let's dance
