@@ -45,7 +45,7 @@ horizontal: false
 - Started and organized a high school NLP hackathon (2018 & 2019, possibly some sort of first?) and conference (2017).
 - Launched and wrote curriculum for a network of computational linguistics clubs.
 - Started and keep running a blog, email newsletter, and resource page for NLP-related stuff.
-- Returned in 2D form to judge hackathons, mentor participants, direct curriculum, lead operations, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula for 3rd - 6th iterations of hackathon.
+- Returned in 2D form to judge hackathons, mentor participants, direct curriculum, co-direct sponsorships, lead operations, advise new hackathon directors, teach workshops, recruit event staff, talk on panels, & send people club curricula for 3rd - 7th iterations of hackathon.
 
 ### So-Called Academic Service
 - Organizing NLP-related events
