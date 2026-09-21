@@ -83,7 +83,7 @@ profile:
 
 ### Dance (choreographed by other people)
 #### Carnegie Mellon University/Pittsburgh Community Events
-1. [Zephyr's Variation from _The Awakening of Flora_](https://youtu.be/jf_HGNfDrCk): ballet solo role with male technique, performed in Mid-Autumn Festival by CMU ARCC
+1. [Zephyr's Variation from _The Awakening of Flora_](https://youtu.be/jf_HGNfDrCk): ballet solo role with male technique, performed in Mid-Autumn Festival by CMU ARCC, fall 2026
 2. ["Palladio"](https://youtu.be/MTcDvYvEzTo): pointe group dance, performed in _Oops!...It's DS Again_, spring 2026
 3. ["Fading Memories"](https://youtu.be/kUrZfdXmjb4): contemporary ballet group dance, performed in _Oops!...It's DS Again_, spring 2026
 4. ["Thunderstruck"](https://youtu.be/YBLSzg-sjAI): tap group dance, performed in _Oops!...It's DS Again_, spring 2026
