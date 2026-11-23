@@ -83,7 +83,7 @@ profile:
 
 ### Dance (choreographed by other people)
 #### Carnegie Mellon University/Pittsburgh Community Events
-1. [Flora from _The Awakening of Flora_](https://youtu.be/iEpaZ1N7BOk?si=eQUL-BI9Ia8QYxcb&t=1003)([Waltz](https://youtu.be/iEpaZ1N7BOk?si=eQUL-BI9Ia8QYxcb&t=1003), [Variation](https://youtu.be/iEpaZ1N7BOk?si=wDgevs1vCC069WHA&t=1447), [Coda](https://youtu.be/iEpaZ1N7BOk?si=h_4ZSiKC66OZOM2u&t=1623), [Finale](https://youtu.be/AjztP8Z5Zu0?si=nkvoJK4K4VTIU0qW&t=4533)): pointe solo role, performed in _The Nutcracker: Clara's Dream_ by En Pointe, fall 2026
+1. [Flora from _The Awakening of Flora_](https://youtu.be/iEpaZ1N7BOk?si=eQUL-BI9Ia8QYxcb&t=1003) ([Waltz](https://youtu.be/iEpaZ1N7BOk?si=eQUL-BI9Ia8QYxcb&t=1003), [Variation](https://youtu.be/iEpaZ1N7BOk?si=wDgevs1vCC069WHA&t=1447), [Coda](https://youtu.be/iEpaZ1N7BOk?si=h_4ZSiKC66OZOM2u&t=1623), [Finale](https://youtu.be/AjztP8Z5Zu0?si=nkvoJK4K4VTIU0qW&t=4533)): pointe solo role, performed in _The Nutcracker: Clara's Dream_ by En Pointe, fall 2026
 2. ["Spanish Chocolate"](https://youtu.be/iEpaZ1N7BOk?si=wvCm32vYyv8S00lu&t=606): pointe duet, performed in _The Nutcracker: Clara's Dream_ by En Pointe, fall 2026
 3. [Peasant Duet from _Naiad and the Fisherman_](https://youtu.be/iEpaZ1N7BOk?si=kKCyKIog4OzQBIVF&t=2051): pointe duet, performed in _The Nutcracker: Clara's Dream_ by En Pointe, fall 2026
 4. [Swanhilda's Act III Variation from _Coppélia_](https://youtu.be/iEpaZ1N7BOk?si=QAJ_dC-kd6sI8kr_&t=3397), pointe solo role, performed in _The Nutcracker: Clara's Dream_ by En Pointe, fall 2026
