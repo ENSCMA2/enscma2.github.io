@@ -184,7 +184,7 @@ profile:
 
 ### Lighting
 Skills I have so far: creating cues (pre-programmed and live-mixing), magic sheets, & basic VectorWorks plots, programming & running cues on ETC Ion, ETC ColorSource 20AV, & grandMA2 consoles, training new board operators, syncing cues with QLab sound files, hanging/focusing/cabling/patching/addressing fixtures (mainly conventional Source 4s, Esprites, & D40s), inserting gels/barrels/replacement lamps, researching & communicating equipment needs.
-1. Lighting Designer for [_The Nutcracker_: Clara's Dream_](https://youtu.be/AjztP8Z5Zu0?si=nkvoJK4K4VTIU0qW&t=4533) by En Pointe, fall 2026
+1. Lighting Designer for [_The Nutcracker: Clara's Dream_](https://youtu.be/AjztP8Z5Zu0?si=nkvoJK4K4VTIU0qW&t=4533) by En Pointe, fall 2026
 2. Lighting Designer for [🐟](https://youtu.be/TFdnUdBQrfM) in _Oops!...It's DS Again_, spring 2026
 3. Lighting Designer for [_Fête_](https://www.youtube.com/watch?v=7bDgYtcHWjI) by En Pointe, spring 2026
 4. Lighting Designer for [_The Nutcracker_](https://www.youtube.com/live/2oENu7Yxg1s?si=7MgySbpeBid1eWOp) by CMU Swing x En Pointe, fall 2025
