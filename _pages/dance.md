@@ -108,7 +108,7 @@ profile:
 23. ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451): pointe group dance in _DS: Rogue_, spring 2025
 24. ["The door"](https://www.youtube.com/live/b0c_nARdjsw?si=b95AEENfK9Rglozg&t=1908): contemporary/jazz group dance in _DS: Rogue_, spring 2025
 25. ["Sweet Disposition"](https://www.youtube.com/live/b0c_nARdjsw?si=rO3xQs7-8uKgP3XX&t=3326): contemporary group dance in _DS: Rogue_, spring 2025
-26. ["Dulcinea" in the _Don Quixote_ Dream Scene](https://youtu.be/1uYVpSNEEFQ?si=Wdq7iwcOY-x7gr4e&t=134): pointe solo role in _Rêve_ by En Pointe, spring 2025
+26. ["Dulcinea" in the _Don Quixote_ Dream Scene](https://youtu.be/y4oKZOqR8dY?si=bO41n-sgJXTBU1L-): pointe solo role in _Rêve_ by En Pointe, spring 2025
 27. ["Serenade for Strings"](https://youtu.be/1uYVpSNEEFQ?si=ArmIWvGhqplKNuqq&t=1409): pointe small-group role in _Rêve_ by En Pointe, spring 2025
 28. ["Training For The Sword"](https://www.youtube.com/live/6Qlv1hG8Vv0?si=uzWH5gcXWM2YTQdm&t=1435): traditional Chinese group dance, performed in _Legend of the White Snake_ by [CMU Awareness of Roots in Chinese Culture (ARCC)](https://www.instagram.com/cmuarcc/?hl=en)
 29. [Opening Act (Chinese Dance)](https://youtu.be/9k90288gJeM?si=fmH7IP5pC9S3ezfV&t=197) of [Greater Pittsburgh Lunar New Year Gala](https://pghccc.org/2025_lny_gala/), winter 2025
@@ -227,7 +227,7 @@ Skills so far: creating show themes, storyboards, & idea docs, acquiring & setti
 9. Co-Répétiteur for ["Garland Waltz" from _Sleeping Beauty_](https://youtu.be/ocj6OzXQOac), performed in _DS: Echo_, fall 2025
 10. Répétiteur for ["Waltz of the Snowflakes"](https://youtu.be/AG163WRDUCc?si=yZL3HThvCA9mFzyx&t=506), performed in _The NOTcracker_, fall 2025
 11. Co-Répétiteur for ["La Donna"](https://youtu.be/LgZT_e4BX8o?si=U4_Tk_edGU5uPjEs&t=7451), performed in _DS: Rogue_, spring 2025
-12. Co-Répétiteur for ["Dream Scene" from _Don Quixote_](https://youtu.be/1uYVpSNEEFQ?si=58ebKJpmlUk_Ul9z&t=24), performed in _Rêve_, spring 2025
+12. Co-Répétiteur for ["Dream Scene" from _Don Quixote_](https://youtu.be/y4oKZOqR8dY?si=bO41n-sgJXTBU1L-), performed in _Rêve_, spring 2025
 13. Co-Director for [_Rêve_](https://www.canva.com/design/DAGj09lsg2s/t-N7lPflflZvZtao0nmfyg/view), spring 2025
 14. Co-Répétiteur for ["Hungarian Rhapsody"](https://www.youtube.com/live/YaI08NTVJHU?si=3PwTShucOgQDe8mZ&t=1395), performed in _DS: Ember_, fall 2024
 15. Co-Director for CMU's second annual [_Nutcracker_](https://www.youtube.com/watch?v=6hTgsJbwa4M), fall 2024
